@@ -76,7 +76,7 @@ Windows の Github-Desktop が楽で気に入ってるのでGithub-Desktop の�
 新しくディレクトリを作成しない場合や既にファイルが存在する場合はエラー吐くので
 <code>-\-force</code> フラグをつけて、エラー回避する
 ```
-$ Hugo new site . --force
+$ hugo new site . --force
 ```
 
 ### とりあえず最初の記事を書いてみる
@@ -84,7 +84,7 @@ $ Hugo new site . --force
 <code>content/PATH</code> フォルダの中に <code>TITLE.md</code> が作成される
 
 ```
-$ hugo new PATH/TITLE.md
+$ hugo new posts/first-post.md
 ```
 
 ### 毎回ファイル名をつけてコマンド打つのが面倒なのでバッチファイル化する
