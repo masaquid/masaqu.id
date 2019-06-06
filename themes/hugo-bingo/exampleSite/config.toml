@@ -1,0 +1,52 @@
+baseurl = "/"
+languageCode = "zh-cmn-Hant"
+title = "Bingo"
+theme = "hugo-bingo"
+
+disableHugoGeneratorInject = true
+enableEmoji = true
+footnoteReturnLinkContents = "↩"
+hasCJKLanguage = true
+googleAnalytics = "UA-123-45"
+
+[permalinks]
+  post = "/posts/:slug/"
+
+[menu]
+
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    url = "/posts"
+    weight = 20
+
+[params]
+
+  [params.gravatar]
+    email = "hugo@example.com"
+
+  [[params.social]]
+    icon = "github"
+    url = "https://github.com/example"
+    weight = 10
+
+  [[params.social]]
+    icon = "twitter"
+    url = "https://twitter.com/example"
+    weight = 30
+
+  [[params.social]]
+    icon = "stackoverflow"
+    url = "https://stackoverflow.com/story/example"
+    weight = 40
+
+  [[params.social]]
+    icon = "linkedin"
+    url = "https://www.linkedin.com/in/example"
+    weight = 20

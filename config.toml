@@ -1,0 +1,26 @@
+baseURL = "https://masaqu.id/"
+canonifyurls = true
+title = "masaqu.id"
+author = "masaquid"
+languageCode = "ja-jp"
+hasCJKLanguage = true
+theme = "hugo-bingo"
+
+[params]
+  [[params.social]]
+    icon = "github"
+    permalink = "https://github.com/masaquid"
+    weight = 10
+  [[params.social]]
+    icon = "eight"
+    permalink = "https://www.facebook.com/masaquid"
+    weight = 20
+  [[params.social]]
+    icon = "twitter"
+    permalink = "https://twitter.com/masaquid"
+    weight = 30
+  [[params.social]]
+    icon = "facebook"
+    permalink = "https://www.facebook.com/masaquid"
+    weight = 40
+
