@@ -20,7 +20,11 @@ theme = "hugo-bingo"
     permalink = "https://twitter.com/masaquid"
     weight = 30
   [[params.social]]
+    icon = "instagram"
+    permalink = "https://www.instagram.com/masaquid/"
+    weight = 40
+  [[params.social]]
     icon = "facebook"
     permalink = "https://www.facebook.com/masaquid"
-    weight = 40
+    weight = 50
 
