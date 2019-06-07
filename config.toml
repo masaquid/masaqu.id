@@ -28,3 +28,14 @@ theme = "hugo-bingo"
     permalink = "https://www.facebook.com/masaquid"
     weight = 50
 
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 10
+  [[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    url = "/posts"
+    weight = 20
