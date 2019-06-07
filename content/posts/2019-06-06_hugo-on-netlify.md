@@ -172,3 +172,11 @@ baseURL = "https://masaquid.netlify.com"
 ```
 
 Netlify なら Netlify の、独自ドメインなら独自ドメインのbaseURLに修正して commit する
+
+* * *
+
+### 独自ドメインの設定
+
+Netlify＋CloudFlare校正で独自ドメイン化・Https化したのでメモしておいた
+
+[Hugo＋Netlify＋CloudFlareで独自ドメインのhttps化](https://masaqu.id/posts/2019-06-07_netlify-cloudflare/)
