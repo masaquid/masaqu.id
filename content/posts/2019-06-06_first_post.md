@@ -159,12 +159,10 @@ __Change site name__ を押下し
 <img src="images/posts/2019-06-06_edit-netlify3.png"
      style="width: 50%; border: solid 1px #ccc">
 
-     
-独自ドメインでの公開とかはとりあえず割愛。
 
 * * *
 
-### 最後に
+### baseURLの設定
 
 CSSの取得URLが <code>config.toml</code> の <code>baseURL</code> を基準に作られているので、環境に応じて適切な <code>baseURL</code> を設定してあげないといけない
 
@@ -172,4 +170,4 @@ CSSの取得URLが <code>config.toml</code> の <code>baseURL</code> を基準�
 baseURL = "https://masaquid.netlify.com"
 ```
 
-Netlify なら Netlify の、独自ドメインなら独自ドメインの適切なURLに修正して commit する
+Netlify なら Netlify の、独自ドメインなら独自ドメインのbaseURLに修正して commit する
