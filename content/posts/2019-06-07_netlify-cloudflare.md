@@ -54,7 +54,7 @@ CloudFlareでDNSのみにすると、CloudFlare側で発行されていたSSL証
 CloudFlareでのSSL設定は外してしまっているので、Netlify側で Let's Encrypt を利用した
 
 <code>Domain management</code> > <code>HTTPS</code> > <code>SSL/TLS certificate</code>  
-__Veryfy FNS configuration__ を押下し <code>Let's encrypt certificate</code> を押下したら設定完了です  
+__Veryfy FNS configuration__ を押下し __Let's encrypt certificate__ を押下したら設定完了です  
 あとは少し時間を置けば自動的に証明書が更新されます
 
 <img src="images/posts/2019-06-07_netlify-domain-setting.png"
