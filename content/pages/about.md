@@ -9,7 +9,7 @@ toc: false
 _@masaquid_ こと __まさき__ と申します  
 
 {{% img src="images/avatar.png" w="50%" %}}
-<span style="font-size: 0.6rem">プロカメラマンに撮影していただいた素敵な写真で、実際の人物とは異なる可能性があります<span>
+<span style="font-size: 0.6rem">プロカメラマンに撮影していただいた素敵な写真で、実際の人物とは異なる可能性があります</span>
 
 * * *
 ### お仕事のこと
