@@ -13,7 +13,7 @@ copyright = """
 </a>"""
 
 [params]
-  description = "This is site description"
+  # description = "This is site description"
   dateformat = "2006/01/02"
   # Fonts settings.
   googlefonts = "https://fonts.googleapis.com/css?family=Lato|Noto+Sans+JP&display=swap" # Optional, Include google fonts.
@@ -21,7 +21,7 @@ copyright = """
   # logofontfamily = "Lobster, cursive" # Optional, Override logo font.
 
 [params.author]
-  thumbnail = "images/avatar.png"
+  thumbnail = "/images/avatar.png"
   name = "masaquid"
   description = ''
   twitter  = "https://twitter.com/masaquid"
