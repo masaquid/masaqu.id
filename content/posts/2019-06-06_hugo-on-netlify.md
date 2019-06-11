@@ -1,6 +1,6 @@
 ---
 date: 2019-06-06T16:00:00+09:00
-thumbnail: images/posts/2009-06-06_eye-catch.png
+thumbnail: images/posts/2019-06-06_eye-catch.png
 title: Github-PagesからNetlify＋Hugoに移行しました
 toc: true
 categories:

@@ -10,7 +10,8 @@ copyright = """
 &copy; masaqu.id
 <a rel='license' href='http://creativecommons.org/licenses/by-sa/4.0/'>
   <img alt='クリエイティブ・コモンズ・ライセンス' src='https://i.creativecommons.org/l/by-sa/4.0/80x15.png' />
-</a>"""
+</a>
+"""
 
 [params]
   # description = "This is site description"
@@ -22,10 +23,17 @@ copyright = """
 
 [params.author]
   thumbnail = "/images/avatar.png"
-  name = "masaquid"
-  description = ''
+  name = "@masaquid"
+  description = """
+  <p>
+    元 地方で働くPHPプログラマー<br>
+    現在はオリジナル商品の企画・開発や販促品の制作会社に勤めています
+  </p>
+  <a href="/pages/about/">このブログについてと、プロフィールはこちら</a>
+  """
+
   twitter  = "https://twitter.com/masaquid"
-  facebook = "https://www.facebook.com/masaquid"
+  # facebook = "https://www.facebook.com/masaquid"
   github   = "https://github.com/masaquid"
   eight    = "https://www.facebook.com/masaquid"
   mail     = "mailto:masaquid@gmail.com"
