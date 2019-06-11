@@ -1,0 +1,13 @@
+.copyright img { /* creativecommons */
+  height: 15px;
+  margin-left: 1em;
+  vertical-align: middle;
+}
+.logo img {
+  height: 1em;
+  padding: 0 5px;
+  vertical-align: bottom;
+}
+.author .author-facts li a {
+  height: 28px;
+}

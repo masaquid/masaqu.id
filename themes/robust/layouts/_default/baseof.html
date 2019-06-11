@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    {{ partial "meta.html" . }}
+    {{ with .Site.Params.googlefonts }}
+    <link href="{{ . }}" rel="stylesheet">
+    {{ else }}
+    <link href="https://fonts.googleapis.com/css?family=Roboto+Slab:400,700" rel="stylesheet">
+    {{ end }}
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css" integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
+    <title>{{ block "title" . }}{{ end }}{{ .Site.Title }}</title>
+    {{ block "meta" . }}{{ end }}
+    <style>
+{{ partial "styles.css" . | safeCSS }}
+{{ partial "custom.css" . | safeCSS }}
+{{ with .Site.Params.fontfamily }} body { font-family: {{ . | safeCSS }}; } {{ end }}
+{{ with .Site.Params.logofontfamily }} .h-logo { font-family: {{ . | safeCSS }}; } {{ end }}
+    </style>
+  </head>
+
+  <body>
+    {{ if ne (getenv "HUGO_ENV") "DEV" }}
+    {{ template "_internal/google_analytics.html" . }}
+    {{ end }}
+
+    <header class="l-header">
+      <div class="l-container">
+        <div class="logo">
+          <a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a>
+        </div>
+        {{ partial "description.html" . }}
+      </div>
+    </header>
+
+    <main>
+      <div class="l-container">
+        {{ block "main" . }}{{ end }}
+      </div>
+    </main>
+
+    <footer class="l-footer">
+      <div class="l-container">
+        <p>{{ with .Site.Copyright }}{{ . | safeHTML }}{{ else }}<span class="h-logo">&copy; {{ .Site.Title }}</span>{{ end }}</p>
+        <aside>
+          <p>Powered by <a href="https://gohugo.io/">Hugo</a>.</p>
+          <p><a href="https://github.com/dim0627/hugo_theme_robust">Robust</a> designed by <a href="http://yet.unresolved.xyz/">Daisuke Tsuji</a>.</p>
+        </aside>
+      </div>
+    </footer>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/highlight.min.js" integrity="sha256-aYTdUrn6Ow1DDgh5JTc3aDGnnju48y/1c8s1dgkYPQ8=" crossorigin="anonymous"></script>
+    <script>hljs.initHighlightingOnLoad();</script>
+  </body>
+</html>
+

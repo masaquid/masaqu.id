@@ -14,7 +14,7 @@
     <div id="recent-posts">
         <h2>最近の投稿</h2>
         <ul>
-            {{ range first 5 .Data.Pages.ByPublishDate.Reverse }}
+            {{ range first 10 .Data.Pages.ByPublishDate.Reverse }}
                 <li>
                     <span>{{ .Render "time-element" }}</span>
                     <a href="{{ .URL }}">{{ .Title }}</a>

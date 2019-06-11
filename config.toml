@@ -4,38 +4,33 @@ title = "masaqu.id"
 author = "masaquid"
 languageCode = "ja-jp"
 hasCJKLanguage = true
-theme = "hugo-bingo"
+theme = "robust"
+disqusShortname = "masaquid"
+copyright = """
+&copy; masaqu.id
+<a rel='license' href='http://creativecommons.org/licenses/by-sa/4.0/'>
+  <img alt='クリエイティブ・コモンズ・ライセンス' src='https://i.creativecommons.org/l/by-sa/4.0/80x15.png' />
+</a>"""
 
 [params]
-  [[params.social]]
-    icon = "github"
-    permalink = "https://github.com/masaquid"
-    weight = 10
-  [[params.social]]
-    icon = "eight"
-    permalink = "https://www.facebook.com/masaquid"
-    weight = 20
-  [[params.social]]
-    icon = "twitter"
-    permalink = "https://twitter.com/masaquid"
-    weight = 30
-  [[params.social]]
-    icon = "instagram"
-    permalink = "https://www.instagram.com/masaquid/"
-    weight = 40
-  [[params.social]]
-    icon = "facebook"
-    permalink = "https://www.facebook.com/masaquid"
-    weight = 50
+  description = "This is site description"
+  dateformat = "2006/01/02"
+  # Fonts settings.
+  googlefonts = "https://fonts.googleapis.com/css?family=Lato|Noto+Sans+JP&display=swap" # Optional, Include google fonts.
+  fontfamily = "Lato, 'Noto Sans JP', 'Hiragino Kaku Gothic Pro', Meiryo, sans-serif" # Optional, Override body font family.
+  # logofontfamily = "Lobster, cursive" # Optional, Override logo font.
 
-[menu]
-  [[menu.main]]
-    identifier = "home"
-    name = "Home"
-    url = "/"
-    weight = 10
-  [[menu.main]]
-    identifier = "posts"
-    name = "Posts"
-    url = "/posts"
-    weight = 20
+[params.author]
+  thumbnail = "images/avatar.png"
+  name = "masaquid"
+  description = ''
+  twitter  = "https://twitter.com/masaquid"
+  facebook = "https://www.facebook.com/masaquid"
+  github   = "https://github.com/masaquid"
+  eight    = "https://www.facebook.com/masaquid"
+  mail     = "mailto:masaquid@gmail.com"
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  series = "series"

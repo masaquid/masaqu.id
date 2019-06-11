@@ -42,14 +42,17 @@ footer {
 }
 
 .breadcrumb {
-    background-color: var(--primary-color-dark);
+    /* background-color: var(--primary-color-dark); */
+    background-color: #05b070;
     line-height: 2;
     padding-left: 16px;
     padding-right: 16px;
 }
 
 .breadcrumb a {
-    background-color: var(--primary-color-dark);
+    /* background-color: var(--primary-color-dark); */
+    background-color: #05b070;
+    font-weight: bold;
     color: #fff;
     margin-right: 16px;
 }

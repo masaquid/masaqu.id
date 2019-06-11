@@ -1,13 +1,12 @@
 ---
-author: masaquid
 date: 2019-06-06T16:00:00+09:00
-draft: false
+thumbnail: images/posts/2009-06-06_eye-catch.png
 title: Github-PagesからNetlify＋Hugoに移行しました
+toc: true
+categories:
+ - "Hugo"
+ - "Netlify"
 ---
-<div style="text-align: center">
-  <img src="images/posts/2009-06-06_eye-catch.png"
-       style="max-width: 60%;">
-</div>
 
 # Netlify＋Hugo環境に移行しました
 以前は Github-Pages＋Jekyll 環境でブログっぽいものを作っていたのですが、もう少しポートフォリオサイトらしく・かつシンプルにリニューアルを計画し、Golangの勉強も兼ねて Hugo を採用する事にしました。
@@ -25,9 +24,7 @@ Hugoのインストールはバイナリをダウンロードして配置、パ�
 
 <code>C:\Hugo</code> 以下に <code>Sites</code> と <code>bin</code> のフォルダを作成  
 
-<img src="images/posts/2019-06-06_hugo-install.png"
-     style="max-width: 100%; border: solid 1px #ccc">
-
+{{% img src="images/posts/2019-06-06_hugo-install.png" %}}
 
 <code>bin</code> 以下にダウンロードしてきたバイナリを配置
 
@@ -50,13 +47,11 @@ $ hugo version
 
 リポジトリを作ったら clone するために適当なファイルを作って一度 commit するのですが面倒くさいので、そのままブラウザ上からREADMEファイル作って保存
 
-<img src="images/posts/2019-06-06_start-repo1.png"
-     style="max-width: 100%; border: solid 1px #ccc">
+{{% img src="images/posts/2019-06-06_start-repo1.png" %}}
 
 中身はなんでも良いので、そのままページ下部の __Commit new file__ して終了
 
-<img src="images/posts/2019-06-06_start-repo2.png"
-     style="max-width: 100%; border: solid 1px #ccc">
+{{% img src="images/posts/2019-06-06_start-repo2.png" %}}
 
 * * *
 
@@ -65,8 +60,7 @@ $ hugo version
 ちゃんとコマンドライン使っても勿論良いのですが  
 Windows の Github-Desktop が楽で気に入ってるのでGithub-Desktop のキャプチャ載せておく
 
-<img src="images/posts/2019-06-06_clone-repo.png"
-     style="max-width: 100%; border: solid 1px #ccc">
+{{% img src="images/posts/2019-06-06_clone-repo.png" %}}
 
 * * *
 
@@ -122,19 +116,16 @@ Netlifyは神ですね
 
 ログインして最初のページで __New site from Git__ を押下する
 
-<img src="images/posts/2019-06-06_start-netlify1.png"
-     style="max-width: 100%; border: solid 1px #ccc">
+{{% img src="images/posts/2019-06-06_start-netlify1.png" %}}
 
 するとリポジトリの選択画面が出るので、今回作ったリポジトリを選択する
 
-<img src="images/posts/2019-06-06_start-netlify2.png"
-     style="max-width: 100%; border: solid 1px #ccc">
+{{% img src="images/posts/2019-06-06_start-netlify2.png" %}}
 
 設定を入れるところが出るので、適切に入力する  
 今回の場合 <code>public</code> を生成してくれる <code>hugo</code> コマンドと、生成されたHTMLのディレクトリ <code>public</code> を指定
 
-<img src="images/posts/2019-06-06_start-netlify3.png"
-     style="max-width: 100%; border: solid 1px #ccc">
+{{% img src="images/posts/2019-06-06_start-netlify3.png" %}}
 
 終わり  
 Netlifyは神ですね
@@ -147,19 +138,15 @@ Netlifyは神ですね
 
 __Site settings__ を押下し
 
-<img src="images/posts/2019-06-06_edit-netlify1.png"
-     style="max-width: 100%; border: solid 1px #ccc">
+{{% img src="images/posts/2019-06-06_edit-netlify1.png" %}}
 
 __Change site name__ を押下し
 
-<img src="images/posts/2019-06-06_edit-netlify2.png"
-     style="max-width: 100%; border: solid 1px #ccc">
+{{% img src="images/posts/2019-06-06_edit-netlify2.png" %}}
 
 好きな名前を入力するだけ
 
-<img src="images/posts/2019-06-06_edit-netlify3.png"
-     style="max-width: 100%; border: solid 1px #ccc">
-
+{{% img src="images/posts/2019-06-06_edit-netlify3.png" %}}
 
 * * *
 
