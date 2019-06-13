@@ -11,3 +11,7 @@
 .author .author-facts li a {
   height: 28px;
 }
+
+.author .author-facts li a img {
+  height: 28px;
+}
