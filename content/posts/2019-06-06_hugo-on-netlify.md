@@ -31,7 +31,7 @@ Hugoのインストールはバイナリをダウンロードして配置、パ�
 環境変数のPATHに <code>C:\Hugo\bin</code> を追加しておしまい。
 
 ```
-$ setx path PATH "PATH=%PATH%;C:\Hugo\bin"
+$ setx PATH "PATH=%PATH%;C:\Hugo\bin"
 ```
 
 インストール確認でHugoのバージョンチェック
