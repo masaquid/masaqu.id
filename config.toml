@@ -5,6 +5,7 @@ author = "masaquid"
 languageCode = "ja-jp"
 hasCJKLanguage = true
 theme = "robust"
+googleAnalytics = "UA-81617646-2"
 disqusShortname = "masaquid"
 copyright = """
 &copy; masaqu.id
