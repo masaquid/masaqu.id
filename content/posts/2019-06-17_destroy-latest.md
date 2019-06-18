@@ -4,6 +4,8 @@ thumbnail: images/posts/2019-06-06_eye-catch.png
 title: よくよく考えたら LATESTS いらないので削除した
 toc: false
 categories:
+ - "Golang"
+tags:
  - "Hugo"
  - "Hugo-theme"
 ---

@@ -3,7 +3,9 @@ date: 2019-06-07T11:21:37+09:00
 thumbnail: images/posts/2019-06-07_eye-catch.png
 title: Hugo＋Netlify＋CloudFlareで独自ドメインのhttps化
 toc: true
-categories :
+categories:
+ - "Golang"
+tags:
  - "Hugo"
  - "Netlify"
  - "CloudFlare"

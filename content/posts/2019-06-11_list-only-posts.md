@@ -4,6 +4,8 @@ thumbnail: images/posts/2019-06-06_eye-catch.png
 title: Hugoで固定ページを作成し、コンテンツ一覧に表示させない
 toc: false
 categories:
+ - "Golang"
+tags:
  - "Hugo"
 ---
 

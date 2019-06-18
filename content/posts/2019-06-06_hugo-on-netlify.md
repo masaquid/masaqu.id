@@ -4,6 +4,8 @@ thumbnail: images/posts/2019-06-06_eye-catch.png
 title: Github-PagesからNetlify＋Hugoに移行しました
 toc: true
 categories:
+ - "golang"
+tags:
  - "Hugo"
  - "Netlify"
 ---

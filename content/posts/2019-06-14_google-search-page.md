@@ -4,6 +4,8 @@ thumbnail: images/posts/2019-06-14_eye-catch.png
 title: アイコンがユーザに伝える情報
 toc: false
 categories:
+ - "Webデザイン"
+tags:
  - "Google"
 ---
 

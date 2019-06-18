@@ -3,6 +3,8 @@ date: 2019-06-14T11:56:27+09:00
 title: 最近の若者が hogehoge 知らないってマ？
 toc: false
 categories:
+ - "その他"
+tags:
  - "hoge"
 ---
 

@@ -5,6 +5,7 @@ title: Enter the Gungeon 攻略のメモ
 toc: false
 categories:
  - "Game"
+tags:
  - "Enter the Gungeon"
 ---
 
