@@ -52,11 +52,13 @@ gem 'sinatra-activerecord'
 * * *
 
 ## rakefileを作る
-プロジェクト直下に <code>rakefile</code> を追加する
+プロジェクト直下に <code>rakefile</code> を新しく作る
 
 ActiveRecordで使うコマンドを使えるように <code>rakefile</code> に以下を追加
 
 ```ruby
+/rakefile
+
 require 'sinatra/activerecord'
 require 'sinatra/activerecord/rake'
 ```
@@ -89,19 +91,21 @@ end
 ActiveRecordにバージョン指定してあげないとエラー吐くので
 環境に応じて適宜追加する
 
+とりあえず今回試しに作ったのは 件名・内容 のデータを持ったシンプルなもの  
+テーブル名はブログにならって Posts に
+
 * * *
 
 ## Modelを作る
 
-とりあえず今回試しに作ったのは 件名・内容 のデータを持ったシンプルなもの  
-テーブル名はブログにならって Posts に
-
-このあたりの命名規則はRailsにならって テーブル名を複数形、モデル名を単数形に
+命名規則はRailsにならって テーブル名を複数形、モデル名を単数形に
 
 <code>/models</code> フォルダ作って <code>post.rb</code> を配置  
 中身はコレだけ
 
 ```ruby
+/models/post.rb
+
 ActiveRecord::Base.establish_connection('sqlite3:///model.db')
 class Post < ActiveRecord::Base 
 end
@@ -110,7 +114,7 @@ end
 <code>rakefile</code> から <code>/models/post.rb</code>を読み込めるように
 
 ```ruby
-/models/post.rb
+/rakefile
 
 require 'sinatra/activerecord'
 require 'sinatra/activerecord/rake'
