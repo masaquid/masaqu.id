@@ -1,3 +1,4 @@
-_snipet/
-public/
 s.bat
+_snipet/
+public/*
+!_redirects

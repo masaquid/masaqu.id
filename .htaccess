@@ -1,9 +1,0 @@
-RewriteEngine on
-
-RewriteCond %{HTTP_HOST} ^www.masaqu\.id
-RewriteRule ^(.*)$ https://masaqu.id/$1 [L,R=301] 
-
-RewriteCond %{THE_REQUEST} ^.*/index.html
-RewriteRule ^(.*)index.html$ http://masaqu.id/$1 [L,R=301] 
-
-RewriteRule ^2018-02-22/rails-vendor-path.html$ http://masaqu.id/posts/2019-07-03_rails-vendor-path/ [L,R=301]
