@@ -1,5 +1,6 @@
 ---
 date: 2019-06-14T11:56:27+09:00
+thumbnail: images/posts/2019-06-14_eye-catch_2.png
 title: 最近の若者が hogehoge 知らないってマ？
 toc: false
 categories:

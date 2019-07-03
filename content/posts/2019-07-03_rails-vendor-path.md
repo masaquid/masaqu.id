@@ -1,7 +1,7 @@
 ---
 date: 2019-07-03T09:32:04+09:00
-thumbnail: images/posts/2019-07-03_eye-catch.png
-title:
+thumbnail: images/posts/2019-07-03_eye-catch_1.png
+title: Railsのアセットパイプラインに vendor/assets のパスを通す
 toc: false
 
 # Categories:
