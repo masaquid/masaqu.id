@@ -1,7 +1,7 @@
 ---
 date: 2019-06-14T10:53:39+09:00
 thumbnail: images/posts/2019-06-14_eye-catch_1.png
-title: アイコンがユーザに伝える情報
+title: Googleの検索ページにアイコンが追加されてた…なんで？
 toc: false
 categories:
  - "Webデザイン"

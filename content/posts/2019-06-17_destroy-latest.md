@@ -1,7 +1,7 @@
 ---
 date: 2019-06-17T17:51:50+09:00
 thumbnail: images/posts/2019-06-06_eye-catch.png
-title: よくよく考えたら LATESTS いらないので削除した
+title: Hugo Robustテーマで よく考えたら LATESTS いらないので削除した
 toc: false
 categories:
  - "Golang"

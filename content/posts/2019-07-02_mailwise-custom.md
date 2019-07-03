@@ -1,7 +1,7 @@
 ---
 date: 2019-07-02T16:13:57+09:00
 thumbnail: images/posts/2019-07-02_eye-catch.png
-title: メールワイズでAmazon出荷指示メールから直接注文管理を開けるボタンを追加
+title: メールワイズでJavascriptカスタマイズ。Amazon出荷指示メールから直接注文管理を開けるボタン
 toc: false
 
 # Categories:

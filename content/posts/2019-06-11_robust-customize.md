@@ -1,7 +1,7 @@
 ---
 date: 2019-06-11T15:49:22+09:00
 thumbnail: images/posts/2019-06-11_eye-catch.png
-title: Hugo-Theme Robustを採用・カスタマイズ
+title: Hugoのテーマ、Robustを採用・カスタマイズ
 toc: true
 categories:
  - "Golang"

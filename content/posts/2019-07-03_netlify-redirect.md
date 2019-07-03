@@ -1,7 +1,7 @@
 ---
 date: 2019-07-03T10:43:18+09:00
 thumbnail: images/posts/2019-07-03_eye-catch_2.png
-title: Netlifyでリダイレクトするには .htaccess じゃなくて _redirect
+title: Netlifyでリダイレクトするには .htaccess じゃなくて _redirects
 toc: false
 
 # Categories:

@@ -49,7 +49,7 @@ $ rails c
     "/usr/local/rvm/gems/ruby-2.4.0/gems/actionview-5.1.5/lib/assets/compiled",
 ```
 
-確かに _vendor_ のパスが通ってなかった
+確かに <code>vendor</code> のパスが通ってなかった
 
 <code>config.application.rb</code> に <code>vendor/assets</code> 以下の任意のディレクトリを書いてパスを通すことにした
 
