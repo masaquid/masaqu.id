@@ -5,8 +5,7 @@ title:
 toc: false
 
 # Categories:
-# - Golang
-# - Ruby
+# - Golang, Ruby, PHP, Javascript
 # - Webデザイン
 # - Game
 # - その他
