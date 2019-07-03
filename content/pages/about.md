@@ -20,7 +20,10 @@ _@masaquid_ こと __まさき__ と申します
 
 * * *
 ### つくったもの
-__[Ruby] Poo It!__ <span style="font-size: 0.8rem; color: #aaa;">※ セキュリティリスクの問題で閉鎖中</span>  
+__[Ruby] Poo It!__ <span style="font-size: 0.8rem; color: gray;">※ セキュリティリスクの問題で利用停止中</span>  
+<a href="/images/pages/about/poo-it_thumbnail.png" target="_blank">{{% img src="images/pages/about/poo-it_thumbnail.png" w="150" %}} </a>  
+<small style="color:gray">一応公開されていますが、動作しないのでURLは控えておきます</small>
+
 お腹が弱くてうんちに関するツイートをよくするので、それに関するアプリを作りました。  
 人生で初めて _Ruby on Rails_ を使い、勉強を兼ねて作ったものでもあります  
 
@@ -28,9 +31,21 @@ __[Ruby] Poo It!__ <span style="font-size: 0.8rem; color: #aaa;">※ セキュ�
 キーワードにより加点減点しデータベースに保存。グラフ化して出力  
 うんちの硬さや色の推移から体調が見えたら面白いかな？と思ってつくりました
 
-<br>
-学生時代に作ったようなものは残っていないので……  
-何か公開できるものができ次第、追記していきます
+<hr style="width:50%; margin: 0 auto; border-style: solid;">
+
+__[Ruby] nanostock__ <span style="font-size: 0.8rem; color: #aaa;">※ カスタマイズして業務利用中のため非公開</span>  
+
+会社在庫の一部が未だにExcelで管理されているのですが、あまりにも入帳が面倒かつ在庫確認も時間が掛かるので「最小限の工数で」在庫入帳出来るのを目標に在庫管理ソフトを作ってみました  
+
+品番を入力する毎に一覧が絞られ、一致品番が一つになった時点で入出庫数の入力が可能に  
+後はEnterするだけで在庫情報に反映されるだけの簡単なアプリ
+
+<hr style="width:50%; margin: 0 auto; border-style: solid;">
+
+細々としたアプリケーションやブックマークレットはよく作るのですが、
+ちゃんとアプリになってて、現在ソース残ってるのがこのぐらい…。
+
+これからはちゃんとソース残しておくようにします(戒め)
 
 * * *
 ### ID: masaquidについて
