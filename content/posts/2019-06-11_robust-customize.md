@@ -8,6 +8,7 @@ categories:
 tags:
  - "Hugo"
  - "Hugo-theme"
+ - "Robust"
 ---
 
 # HugoのテーマをRobustに変更・適宜カスタマイズしました

@@ -1,5 +1,9 @@
 <section class="sidebar">
-  <header>{{ .key | upper }}</header>
+  <header>
+    {{ if eq .key "categories" }} カテゴリー
+    {{ else if eq .key "tags" }} タグ
+    {{ else }} {{ .key | upper }} {{ end }}
+  </header>
   <div>
     <ul class="terms">
       {{ range $key, $value := first 10 .value.ByCount }}
