@@ -1,0 +1,8 @@
+{
+    "schedule": "weekly",
+    "aggressiveCompression": "true",
+    "ignoredFiles": [
+        "/static/avatar.png",
+        "/static/logo.png"
+    ]
+}
