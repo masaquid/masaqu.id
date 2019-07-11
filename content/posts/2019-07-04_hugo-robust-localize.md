@@ -5,16 +5,20 @@ title: Hugoテーマ Robust の各英語表記を日本語にした
 toc: false
 
 # Categories:
-# - Golang, Ruby, PHP, Javascript
-# - Webデザイン
-# - Game
-# - その他
+#   開発関係
+#   趣味・ゲーム
+#   ニュース
+#   その他
+# Tags:
+#   ruby, php, golang, javascript
+#   ruby on rails, laravel, hugo
+#   github, netlify
+#   自転車
 categories:
- - "Golang"
+ - "開発関係"
 tags:
- - "Hugo"
- - "Hugo-theme"
- - "Robust"
+ - "golang"
+ - "hugo"
 ---
 
 # Hugoテーマ Robustの英語表記部分を日本語にしました

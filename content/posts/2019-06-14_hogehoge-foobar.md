@@ -3,10 +3,22 @@ date: 2019-06-14T11:56:27+09:00
 thumbnail: images/posts/2019-06-14_eye-catch_2.png
 title: 最近の若者が hogehoge 知らないってマジか
 toc: false
+
+# Categories:
+#   開発関係
+#   趣味・ゲーム
+#   ニュース
+#   その他
+# Tags:
+#   ruby, php, golang, javascript
+#   ruby on rails, laravel, hugo
+#   github, netlify
+#   自転車
 categories:
  - "その他"
 tags:
- - "hoge"
+ - "golang"
+ - "hugo"
 ---
 
 # hoge... メタ構文変数とは

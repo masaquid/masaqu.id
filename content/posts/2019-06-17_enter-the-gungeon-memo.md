@@ -3,6 +3,17 @@ date: 2019-06-17T17:10:52+09:00
 thumbnail: images/posts/2019-06-17_eye-catch.png
 title: Enter the Gungeon 攻略のメモ
 toc: false
+
+# Categories:
+#   開発関係
+#   趣味・ゲーム
+#   ニュース
+#   その他
+# Tags:
+#   ruby, php, golang, javascript
+#   ruby on rails, laravel, hugo
+#   github, netlify
+#   自転車
 categories:
  - "Game"
 tags:

@@ -5,16 +5,21 @@ title: Sinatra+ActiveRecord環境のメモ
 toc: false
 
 # Categories:
-# - Golang
-# - Ruby
-# - Webデザイン
-# - Game
-# - その他
+#   開発関係
+#   趣味・ゲーム
+#   ニュース
+#   その他
+# Tags:
+#   ruby, php, golang, javascript
+#   ruby on rails, laravel, hugo
+#   github, netlify
+#   自転車
 categories:
- - "Ruby"
+ - "開発関係"
 tags:
- - "Sinatra"
- - "ActiveRecord"
+ - "ruby"
+ - "sinatra"
+ - "activeRecord"
 ---
 
 # Sinatra+ActiveRecord環境で開発するためのメモ

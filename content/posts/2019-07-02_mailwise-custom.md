@@ -5,15 +5,19 @@ title: メールワイズでJavascriptカスタマイズ。Amazon出荷指示メ
 toc: false
 
 # Categories:
-# - Golang
-# - Ruby
-# - Javascript
-# - Webデザイン
-# - Game
-# - その他
+#   開発関係
+#   趣味・ゲーム
+#   ニュース
+#   その他
+# Tags:
+#   ruby, php, golang, javascript
+#   ruby on rails, laravel, hugo
+#   github, netlify
+#   自転車
 categories:
- - "Javascript"
+ - "開発関係"
 tags:
+ - "javascript"
  - "メールワイズ"
  - "Amazon"
 ---

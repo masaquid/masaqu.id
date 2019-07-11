@@ -1,6 +1,6 @@
 baseURL = "https://masaqu.id/"
 canonifyurls = true
-title = "ぷろとたいぷ"
+title = "masaqu.id"
 author = "masaquid"
 languageCode = "ja-jp"
 hasCJKLanguage = true

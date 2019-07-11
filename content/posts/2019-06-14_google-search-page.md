@@ -3,10 +3,21 @@ date: 2019-06-14T10:53:39+09:00
 thumbnail: images/posts/2019-06-14_eye-catch_1.png
 title: Googleの検索ページにアイコンが追加されてた…なんで？
 toc: false
+
+# Categories:
+#   開発関係
+#   趣味・ゲーム
+#   ニュース
+#   その他
+# Tags:
+#   ruby, php, golang, javascript
+#   ruby on rails, laravel, hugo
+#   github, netlify
+#   自転車
 categories:
- - "Webデザイン"
+ - "開発関係"
 tags:
- - "Google"
+ - "seo"
 ---
 
 ## 色ひとつとっても、奥が深い

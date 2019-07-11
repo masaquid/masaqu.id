@@ -5,15 +5,21 @@ title: Netlifyでリダイレクトするには .htaccess じゃなくて _redir
 toc: false
 
 # Categories:
-# - Golang, Ruby, PHP, Javascript
-# - Webデザイン
-# - Game
-# - その他
+#   開発関係
+#   趣味・ゲーム
+#   ニュース
+#   その他
+# Tags:
+#   ruby, php, golang, javascript
+#   ruby on rails, laravel, hugo
+#   github, netlify
+#   自転車
 categories:
- - "Golang"
+ - "開発関係"
 tags:
- - "Hugo"
- - "Netlify"
+ - "golang"
+ - "hugo"
+ - "netlify"
 ---
 
 過去のJekyllで作ったブログの記事は、既にサービスが終了してしまった旧Cloud9 (現AmazonAWS Cloud9)

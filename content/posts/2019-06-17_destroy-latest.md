@@ -3,11 +3,21 @@ date: 2019-06-17T17:51:50+09:00
 thumbnail: images/posts/2019-06-06_eye-catch.png
 title: Hugo Robustテーマで よく考えたら LATESTS いらないので削除した
 toc: false
+
+# Categories:
+#   開発関係
+#   趣味・ゲーム
+#   ニュース
+#   その他
+# Tags:
+#   ruby, php, golang, javascript
+#   ruby on rails, laravel, hugo
+#   github, netlify
+#   自転車
 categories:
  - "Golang"
 tags:
  - "Hugo"
- - "Hugo-theme"
 ---
 
 # サイドバーのLATEST削除しました

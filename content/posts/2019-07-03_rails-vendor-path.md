@@ -5,15 +5,20 @@ title: Railsのアセットパイプラインに vendor/assets のパスを通�
 toc: false
 
 # Categories:
-# - Golang
-# - Ruby
-# - Webデザイン
-# - Game
-# - その他
+#   開発関係
+#   趣味・ゲーム
+#   ニュース
+#   その他
+# Tags:
+#   ruby, php, golang, javascript
+#   ruby on rails, laravel, hugo
+#   github, netlify
+#   自転車
 categories:
- - "Ruby"
+ - "開発関係"
 tags:
- - "Ruby on Rails"
+ - "ruby"
+ - "ruby on rails"
 ---
 
 # Railsのアセットパイプラインに vendor/assets のパスを通す

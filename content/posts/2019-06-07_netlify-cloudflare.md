@@ -3,11 +3,23 @@ date: 2019-06-07T11:21:37+09:00
 thumbnail: images/posts/2019-06-07_eye-catch.png
 title: Hugo＋Netlify＋CloudFlareで独自ドメインのhttps化
 toc: true
+
+# Categories:
+#   開発関係
+#   趣味・ゲーム
+#   ニュース
+#   その他
+# Tags:
+#   ruby, php, golang, javascript
+#   ruby on rails, laravel, hugo
+#   github, netlify
+#   自転車
 categories:
- - "Golang"
+ - "開発関係"
 tags:
- - "Hugo"
- - "Netlify"
+ - "golang"
+ - "hugo"
+ - "netlify"
  - "CloudFlare"
 ---
 

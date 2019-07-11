@@ -3,11 +3,23 @@ date: 2019-06-06T16:00:00+09:00
 thumbnail: images/posts/2019-06-06_eye-catch.png
 title: Github-PagesからNetlify＋Hugoに移行しました
 toc: true
+
+# Categories:
+#   開発関係
+#   趣味・ゲーム
+#   ニュース
+#   その他
+# Tags:
+#   ruby, php, golang, javascript
+#   ruby on rails, laravel, hugo
+#   github, netlify
+#   自転車
 categories:
- - "golang"
+ - "開発関係"
 tags:
- - "Hugo"
- - "Netlify"
+ - "golang"
+ - "hugo"
+ - "netlify"
 ---
 
 # Netlify＋Hugo環境に移行しました

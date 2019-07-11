@@ -3,10 +3,22 @@ date: 2019-06-11T18:09:13+09:00
 thumbnail: images/posts/2019-06-06_eye-catch.png
 title: Hugoで固定ページを作成し、コンテンツ一覧に表示させない
 toc: false
+
+# Categories:
+#   開発関係
+#   趣味・ゲーム
+#   ニュース
+#   その他
+# Tags:
+#   ruby, php, golang, javascript
+#   ruby on rails, laravel, hugo
+#   github, netlify
+#   自転車
 categories:
- - "Golang"
+ - "開発関係"
 tags:
- - "Hugo"
+ - "golang"
+ - "hugo"
 ---
 
 # Hugoで固定ページを作りたい

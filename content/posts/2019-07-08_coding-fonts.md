@@ -5,14 +5,19 @@ title: (開発用)コーディング用フォント【Windows】
 toc: true
 
 # Categories:
-# - Golang, Ruby, PHP, Javascript
-# - Webデザイン
-# - Game
-# - その他
+#   開発関係
+#   趣味・ゲーム
+#   ニュース
+#   その他
+# Tags:
+#   ruby, php, golang, javascript
+#   ruby on rails, laravel, hugo
+#   github, netlify
+#   自転車
 categories:
- - "その他"
+ - "開発関係"
 tags:
- - "Fonts"
+ - "fonts"
 ---
 
 # Windows環境で使っているコーディング用フォント

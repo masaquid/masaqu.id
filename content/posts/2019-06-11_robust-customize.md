@@ -3,12 +3,22 @@ date: 2019-06-11T15:49:22+09:00
 thumbnail: images/posts/2019-06-11_eye-catch.png
 title: Hugoのテーマ、Robustを採用・カスタマイズ
 toc: true
+
+# Categories:
+#   開発関係
+#   趣味・ゲーム
+#   ニュース
+#   その他
+# Tags:
+#   ruby, php, golang, javascript
+#   ruby on rails, laravel, hugo
+#   github, netlify
+#   自転車
 categories:
- - "Golang"
+ - "開発関係"
 tags:
- - "Hugo"
- - "Hugo-theme"
- - "Robust"
+ - "golang"
+ - "hugo"
 ---
 
 # HugoのテーマをRobustに変更・適宜カスタマイズしました
