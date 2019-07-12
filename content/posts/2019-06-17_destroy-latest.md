@@ -15,9 +15,10 @@ toc: false
 #   github, netlify
 #   自転車
 categories:
- - "Golang"
+ - "開発関係"
 tags:
- - "Hugo"
+ - "golang"
+ - "hugo"
 ---
 
 # サイドバーのLATEST削除しました

@@ -15,8 +15,9 @@ toc: false
 #   github, netlify
 #   自転車
 categories:
- - "Game"
+ - "趣味・ゲーム"
 tags:
+ - "Nintendo-Switch"
  - "Enter the Gungeon"
 ---
 
