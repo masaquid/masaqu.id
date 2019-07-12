@@ -1,6 +1,6 @@
 ---
 date: 2019-07-12T13:39:36+09:00
-thumbnail: images/posts/2019-07-12_eye-catch.png
+thumbnail: images/posts/2019-07-12_eye-catch1.png
 title: Amazon関係ツールの開発事情が厳しくて辛い
 toc: false
 

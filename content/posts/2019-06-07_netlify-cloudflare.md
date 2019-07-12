@@ -20,7 +20,7 @@ tags:
  - "golang"
  - "hugo"
  - "netlify"
- - "CloudFlare"
+ - "cloudflare"
 ---
 
 # Netlify＋CloudFlareで独自ドメイン運用＋https化しました

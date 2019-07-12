@@ -18,7 +18,7 @@ categories:
  - "開発関係"
 tags:
  - "ruby"
- - "ruby on rails"
+ - "ruby-on-rails"
 ---
 
 # Railsのアセットパイプラインに vendor/assets のパスを通す

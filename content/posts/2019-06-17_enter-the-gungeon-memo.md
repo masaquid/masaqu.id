@@ -17,8 +17,8 @@ toc: false
 categories:
  - "趣味・ゲーム"
 tags:
- - "Nintendo-Switch"
- - "Enter the Gungeon"
+ - "nintendo-switch"
+ - "enter-the-gungeon"
 ---
 
 # Enter the Gungeon 楽しいです
