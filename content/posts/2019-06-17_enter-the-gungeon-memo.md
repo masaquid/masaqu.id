@@ -26,6 +26,8 @@ tags:
 
 PC版で2016年に発売して以来、Xbox/Switchと様々なプラットフォーム展開し、合計200万本～売れてる、メガヒットインディーズタイトル
 
+{{% ad %}}
+
 * * *
 [Enter the Gungeon](https://www.epicgames.com/store/ja/product/enter-the-gungeon/home)
 

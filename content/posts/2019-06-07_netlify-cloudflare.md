@@ -32,6 +32,8 @@ Hugoに移行した当サイトをNetlify＋CloudFlareで独自ドメイン・ht
 Hugo＋Netlifyでの静的ブログ環境はこちらの記事を参照  
 [Github-PagesからNetlify＋Hugoに移行しました](https://masaqu.id/posts/2019-06-06_first_post/)
 
+{{% ad %}}
+
 * * *
 
 ## CloudFlareの設定

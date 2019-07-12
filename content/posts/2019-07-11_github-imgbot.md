@@ -25,6 +25,8 @@ tags:
 
 ブログ的に使ってるとリポジトリの画像重たすぎるよなぁ…外部サーバ探そうかな、とか思ってたら良いサービスがあった 
 
+{{% ad %}}
+
 __IMGBOT__  
 _A GitHub app that optimizes your images_  
 [https://imgbot.net](https://imgbot.net)
