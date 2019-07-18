@@ -5,8 +5,8 @@ title: Hugoのテーマ、Robustを採用・カスタマイズ
 toc: true
 
 # Categories:
-#   開発関係
-#   趣味・ゲーム
+#   開発関係のこと
+#   趣味のこと
 #   ニュース
 #   その他
 # Tags:
@@ -15,7 +15,7 @@ toc: true
 #   github, netlify
 #   自転車
 categories:
- - "開発関係"
+ - "開発関係のこと"
 tags:
  - "golang"
  - "hugo"

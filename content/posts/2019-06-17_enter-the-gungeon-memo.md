@@ -5,8 +5,8 @@ title: Enter the Gungeon 攻略のメモ
 toc: false
 
 # Categories:
-#   開発関係
-#   趣味・ゲーム
+#   開発関係のこと
+#   趣味のこと
 #   ニュース
 #   その他
 # Tags:
@@ -15,7 +15,7 @@ toc: false
 #   github, netlify
 #   自転車
 categories:
- - "趣味・ゲーム"
+ - "趣味のこと"
 tags:
  - "nintendo-switch"
  - "enter-the-gungeon"

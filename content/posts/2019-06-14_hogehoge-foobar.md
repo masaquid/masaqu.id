@@ -5,8 +5,8 @@ title: 最近の若者が hogehoge 知らないってマジか
 toc: false
 
 # Categories:
-#   開発関係
-#   趣味・ゲーム
+#   開発関係のこと
+#   趣味のこと
 #   ニュース
 #   その他
 # Tags:
@@ -15,7 +15,7 @@ toc: false
 #   github, netlify
 #   自転車
 categories:
- - "その他"
+ - "開発関係のこと"
 tags:
  - "golang"
  - "hugo"

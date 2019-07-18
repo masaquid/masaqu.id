@@ -5,8 +5,10 @@ title:
 toc: false
 
 # Categories:
-#   開発・デザイン
-#   趣味・ゲーム
+#   開発関係のこと
+#   趣味のこと
+#   ニュース
+#   その他
 # Tags:
 #   ruby, php, golang, javascript
 #   ruby on rails, laravel, hugo

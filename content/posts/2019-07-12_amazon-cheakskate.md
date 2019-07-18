@@ -5,15 +5,17 @@ title: Amazon関係ツールの開発事情が厳しくて辛い
 toc: false
 
 # Categories:
-#   開発・デザイン
-#   趣味・ゲーム
+#   開発関係のこと
+#   趣味のこと
+#   ニュース
+#   その他
 # Tags:
 #   ruby, php, golang, javascript
 #   ruby on rails, laravel, hugo
 #   github, netlify
 #   自転車
 categories:
- - "開発・デザイン"
+ - "開発関係のこと"
 tags:
  - "Amazon"
 ---

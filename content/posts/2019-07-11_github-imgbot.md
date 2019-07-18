@@ -5,8 +5,8 @@ title: Github上の画像を自動圧縮してくれるImgBot導入した
 toc: false
 
 # Categories:
-#   開発関係
-#   趣味・ゲーム
+#   開発関係のこと
+#   趣味のこと
 #   ニュース
 #   その他
 # Tags:
@@ -15,7 +15,7 @@ toc: false
 #   github, netlify
 #   自転車
 categories:
- - "開発関係"
+ - "開発関係のこと"
 tags:
  - "github"
 ---
