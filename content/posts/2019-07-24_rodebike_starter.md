@@ -55,7 +55,8 @@ __【注意】__
 仏式対応・空気圧計がついているのが最低条件。  
 ロードバイクの場合、週に一回ぐらいで空気入れる必要があります
 
-<a target="_blank"  href="https://www.amazon.co.jp/gp/product/B07L4QKWH5/ref=as_li_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=B07L4QKWH5&linkCode=as2&tag=masaquid-22&linkId=74cc5f08314537f0bbd5e6fb2cf72792"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=JP&ASIN=B07L4QKWH5&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL160_&tag=masaquid-22" ></a><img src="//ir-jp.amazon-adsystem.com/e/ir?t=masaquid-22&l=am2&o=9&a=B07L4QKWH5" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=tf_til&t=masaquid-22&m=amazon&o=9&p=8&l=as1&IS2=1&detail=1&asins=B07L4QKWH5&linkId=0abea4377dbc77a16ac0fba89049870b&bc1=000000&lt1=_blank&fc1=333333&lc1=0066c0&bg1=ffffff&f=ifr">
+    </iframe>
 
 空気圧は、タイヤに書いてあります。大体 7BAR (100psi) ぐらいでOKです  
 [タイヤの空気圧って、どのぐらい入れたら良いの？ | TREK](https://www.trekstore.jp/news/?p=45207)
@@ -71,7 +72,9 @@ __【注意】__
 ボトルは後からでも良いですが、ボトルゲージは必要です  
 熱中症・脱水症状になったら楽しいどころじゃないので。  
 ペットボトルが使えるやつを買っておけば、色々と便利が良いです  
-<a target="_blank"  href="https://www.amazon.co.jp/gp/product/B07D9Z76G1/ref=as_li_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=B07D9Z76G1&linkCode=as2&tag=masaquid-22&linkId=7a35f357a71f9f75d8e6c7f440ff5855"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=JP&ASIN=B07D9Z76G1&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL160_&tag=masaquid-22" ></a><img src="//ir-jp.amazon-adsystem.com/e/ir?t=masaquid-22&l=am2&o=9&a=B07D9Z76G1" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=tf_til&t=masaquid-22&m=amazon&o=9&p=8&l=as1&IS2=1&detail=1&asins=B07D9Z76G1&linkId=910e5bf0cbbd545647f3cb31c50da59b&bc1=000000&lt1=_blank&fc1=333333&lc1=0066c0&bg1=ffffff&f=ifr">
+    </iframe>
 
 
 <br>
@@ -86,7 +89,7 @@ __JCF公認ヘルメット__
 JCF公認／推奨のシールが貼られたヘルメットを購入しましょう  
 ついてなくても良いものはあるかもしれませんが、ひとつ分かりやすい目安になるかと思います
 
-<a target="_blank"  href="https://www.amazon.co.jp/gp/product/B008HK0SK2/ref=as_li_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=B008HK0SK2&linkCode=as2&tag=masaquid-22&linkId=090c8fddea11482ccfd4f81d50f673fc"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=JP&ASIN=B008HK0SK2&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL160_&tag=masaquid-22" ></a><img src="//ir-jp.amazon-adsystem.com/e/ir?t=masaquid-22&l=am2&o=9&a=B008HK0SK2" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=masaquid-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B008HK0SK2&linkId=ab3dc80f93a7e381152d3b6856d0a685"></iframe>
 
 安値のものでも、それなりに品揃えあります  
 頭にフィットするかどうかも大事なので、店頭で確認すると良いです
@@ -96,7 +99,7 @@ JCF公認／推奨のシールが貼られたヘルメットを購入しまし�
 
 どんな安いものでも良いですが、必要と考えています
 
-<a target="_blank"  href="https://www.amazon.co.jp/gp/product/B07QPXV9HC/ref=as_li_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=B07QPXV9HC&linkCode=as2&tag=masaquid-22&linkId=48c92c40f3e064e9a545cdb03b507848"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=JP&ASIN=B07QPXV9HC&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL160_&tag=masaquid-22" ></a><img src="//ir-jp.amazon-adsystem.com/e/ir?t=masaquid-22&l=am2&o=9&a=B07QPXV9HC" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=masaquid-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07QPXV9HC&linkId=e31ad8b0c8bb12d8c3234a86769abc65"></iframe>
 
 衝撃吸収が～……とか色々ウリ文句が書いてあったりしますが  
 
@@ -114,16 +117,16 @@ JCF公認／推奨のシールが貼られたヘルメットを購入しまし�
 日差しで視界が悪くなったり飛び石の可能性があったり色々あります  
 なにより __思った以上に虫が顔にあたる__ ので必須です、まじで。  
 
-<a target="_blank"  href="https://www.amazon.co.jp/gp/product/B007RKE2J6/ref=as_li_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=B007RKE2J6&linkCode=as2&tag=masaquid-22&linkId=cdf7aa3869210a8994c2749c8f870f14"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=JP&ASIN=B007RKE2J6&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL160_&tag=masaquid-22" ></a><img src="//ir-jp.amazon-adsystem.com/e/ir?t=masaquid-22&l=am2&o=9&a=B007RKE2J6" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=masaquid-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B007RKE2J6&linkId=7df712bf4f6245e0423cfb281c472080"></iframe>
 
 <br>
 ### フロントライト
 
 ライトは必須です、そもそも無灯火だと警察に捕まっちゃうし。  
 長距離用にオススメのアイテム！等もありますが、とりあえず最初は安いもので良いです  
-よく言われている _300ルーメン以上の明るさ_ とか _IS前照灯規格適合品_ のライトで、安いものを選べばOKです。
+よく言われている _300ルーメン以上の明るさ_ とか _JIS前照灯規格適合品_ のライトで、安いものを選べばOKです。
 
-<a target="_blank"  href="https://www.amazon.co.jp/gp/product/B00GOKTDOY/ref=as_li_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=B00GOKTDOY&linkCode=as2&tag=masaquid-22&linkId=f48025e6dc34a37791ffe39caf72ce38"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=JP&ASIN=B00GOKTDOY&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL160_&tag=masaquid-22" ></a><img src="//ir-jp.amazon-adsystem.com/e/ir?t=masaquid-22&l=am2&o=9&a=B00GOKTDOY" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=masaquid-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B00GOKTDOY&linkId=091a7c7b2bd0e60ed76c50d701d74695"></iframe>
 
 <br>
 ### リアライト
@@ -137,7 +140,7 @@ _点滅モード_ のあるリアライトを選ぶのがオススメです
 操作がちょっと面倒だけど（ボタン何回か押さないといけない）
 </small>
 
-<a target="_blank"  href="https://www.amazon.co.jp/gp/product/B007FWJ5XO/ref=as_li_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=B007FWJ5XO&linkCode=as2&tag=masaquid-22&linkId=cded01ebbe75f01ce38681120b1f1ac4"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=JP&ASIN=B007FWJ5XO&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL160_&tag=masaquid-22" ></a><img src="//ir-jp.amazon-adsystem.com/e/ir?t=masaquid-22&l=am2&o=9&a=B007FWJ5XO" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=masaquid-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B007FWJ5XO&linkId=a3435759dcb0636f8cc4584279cc87f7"></iframe>
 
 
 <br>
@@ -151,11 +154,13 @@ _点滅モード_ のあるリアライトを選ぶのがオススメです
 重たい鍵をずっと持ち歩くほうがストレスです  
 駐輪場所をちゃんと気にすること、きちんと見ておくことが何より大事。
 
-<a target="_blank"  href="https://www.amazon.co.jp/gp/product/B008BC0AUO/ref=as_li_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=B008BC0AUO&linkCode=as2&tag=masaquid-22&linkId=299985cadcd1e0301598bb495df50993"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=JP&ASIN=B008BC0AUO&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL160_&tag=masaquid-22" ></a><img src="//ir-jp.amazon-adsystem.com/e/ir?t=masaquid-22&l=am2&o=9&a=B008BC0AUO" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />  
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=masaquid-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B008BC0AUO&linkId=40e037c6a63a0a402be33b8da5b07eca"></iframe>
+
 <small>私が普段、こんな感じのワイヤーロックだけ、ポッケに入れて出かけます</small>
 
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=masaquid-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B073XF7QYX&linkId=fe3bf211cbb23a504ac325276ff8dc70"></iframe>
+
 <small>長めの距離を走る場合や、複数人で走る場合は（自転車同士を連結して駐輪する場合とか）ABUSのチェーンロックをひとつだけ追加で持ち歩きます</small>  
-<a target="_blank"  href="https://www.amazon.co.jp/gp/product/B073XF7QYX/ref=as_li_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=B073XF7QYX&linkCode=as2&tag=masaquid-22&linkId=03070d6f6adc1f47b4443ddbacb85827"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=JP&ASIN=B073XF7QYX&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL160_&tag=masaquid-22" ></a><img src="//ir-jp.amazon-adsystem.com/e/ir?t=masaquid-22&l=am2&o=9&a=B073XF7QYX" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 ### レーパン
 
@@ -166,7 +171,7 @@ _点滅モード_ のあるリアライトを選ぶのがオススメです
 
 楽しく乗るようになったらなったで、どっちにしても必要なので最初に買う方がいいです
 
-<a target="_blank"  href="https://www.amazon.co.jp/gp/product/B00JKCIGF0/ref=as_li_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=B00JKCIGF0&linkCode=as2&tag=masaquid-22&linkId=57c2bb757155eec05d907561f53e71af"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=JP&ASIN=B00JKCIGF0&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL160_&tag=masaquid-22" ></a><img src="//ir-jp.amazon-adsystem.com/e/ir?t=masaquid-22&l=am2&o=9&a=B00JKCIGF0" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=masaquid-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B00JKCIGF0&linkId=46e839a99b7e053846d660ae5596a05e"></iframe>
 
 こういったタイプを購入すれば、普通のパンツの代わりに履いて、普段着も着れるのでオススメです
 
@@ -177,17 +182,19 @@ _点滅モード_ のあるリアライトを選ぶのがオススメです
 そして、空気は絶対にボンベを使っていれます  
 真夏の炎天下、ハンドポンプで空気を入れるなんで苦行は考えない方が良いです  
 
-<a target="_blank"  href="https://www.amazon.co.jp/gp/product/B00DOQEXLO/ref=as_li_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=B00DOQEXLO&linkCode=as2&tag=masaquid-22&linkId=c5a6253e6818dada042ae906129db64c"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=JP&ASIN=B00DOQEXLO&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL160_&tag=masaquid-22" ></a><img src="//ir-jp.amazon-adsystem.com/e/ir?t=masaquid-22&l=am2&o=9&a=B00DOQEXLO" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=masaquid-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B00DOQEXLO&linkId=8c667b99e4611564551afd310da4dc35"></iframe>
 
-<a target="_blank"  href="https://www.amazon.co.jp/gp/product/B01KJKHSOG/ref=as_li_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=B01KJKHSOG&linkCode=as2&tag=masaquid-22&linkId=8133bc683f40c4911e84c019ec62a5f0"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=JP&ASIN=B01KJKHSOG&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL160_&tag=masaquid-22" ></a><img src="//ir-jp.amazon-adsystem.com/e/ir?t=masaquid-22&l=am2&o=9&a=B01KJKHSOG" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=masaquid-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B01KJKHSOG&linkId=05e91519c2b46a400d8620435ab7786c"></iframe>
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=masaquid-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B00C9P9MPS&linkId=8f8e3f393f3ee6abbd3b59111057c424"></iframe>
 
 チューブとボンベ、そしてタイヤレバーだけ持ち歩いておけば、まず大丈夫です。  
-<a target="_blank"  href="https://www.amazon.co.jp/gp/product/B00C9P9MPS/ref=as_li_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=B00C9P9MPS&linkCode=as2&tag=masaquid-22&linkId=aa985380a1d31cfb42890358a7755e6e"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=JP&ASIN=B00C9P9MPS&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL160_&tag=masaquid-22" ></a><img src="//ir-jp.amazon-adsystem.com/e/ir?t=masaquid-22&l=am2&o=9&a=B00C9P9MPS" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 <br>
 
 新しいチューブを入れる時に少しだけ空気を入れると楽なので、私はハンドポンプも使います  
-<a target="_blank"  href="https://www.amazon.co.jp/gp/product/B01HM7NTSS/ref=as_li_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=B01HM7NTSS&linkCode=as2&tag=masaquid-22&linkId=82217fbacb1ba5917e7181d3981b697c"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=JP&ASIN=B01HM7NTSS&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL160_&tag=masaquid-22" ></a><img src="//ir-jp.amazon-adsystem.com/e/ir?t=masaquid-22&l=am2&o=9&a=B01HM7NTSS" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=masaquid-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B01HM7NTSS&linkId=34f7f48b28c6e9dfdc5583df5835e9b2"></iframe>
 
 殆ど使わないので、最安のものでOKです。
 
@@ -201,7 +208,8 @@ _点滅モード_ のあるリアライトを選ぶのがオススメです
 長距離の場合、気にしないといけないことが途端に多くなるんですよね
 
 不安な人は、タイヤ修理用のパッチだけ持っておくと安心です  
-<a target="_blank"  href="https://www.amazon.co.jp/gp/product/B000AQYT8I/ref=as_li_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=B000AQYT8I&linkCode=as2&tag=masaquid-22&linkId=f42e82127410c71cdd4da013da0a3b83"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=JP&ASIN=B000AQYT8I&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL160_&tag=masaquid-22" ></a><img src="//ir-jp.amazon-adsystem.com/e/ir?t=masaquid-22&l=am2&o=9&a=B000AQYT8I" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=masaquid-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B000AQYT8I&linkId=f8934da55cf8c1ea5397a51dde0429bb"></iframe>
 
 
 * * *
@@ -220,9 +228,10 @@ _点滅モード_ のあるリアライトを選ぶのがオススメです
 汗かいたりすると、結構ストレスなんですよね  
 ヘルメットもずれやすくなったり、ひどいと汗が目にはいったり。  
 
-気に入ったデザインが無ければ、安いものでも良いので試してください  
+気に入ったデザインが無ければ、安いだけのものでも良いので試してください  
 びっくりするぐらい快適です  
-<a target="_blank"  href="https://www.amazon.co.jp/gp/product/B01KJ0WH9C/ref=as_li_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=B01KJ0WH9C&linkCode=as2&tag=masaquid-22&linkId=97389bbf93189875320524ac858069a7"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=JP&ASIN=B01KJ0WH9C&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL160_&tag=masaquid-22" ></a><img src="//ir-jp.amazon-adsystem.com/e/ir?t=masaquid-22&l=am2&o=9&a=B01KJ0WH9C" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=masaquid-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B01KJ0WH9C&linkId=ddad4650cd4a20c9d83989e087b3470a"></iframe>
 
 ツバのあるキャップタイプだと、雨の日が少し楽になりますが  
 姿勢によっては視界が悪いので、ビーニータイプが良いかはお好みで  
@@ -237,7 +246,8 @@ GPSトラッキングや、ルート表示などしてくれるものもあり�
 
 ただ、常時スマホの電源を入れておくとバッテリーが死ぬので、やはりサイコンは必要です  
 速度とか見れると ぐっと楽しさが広がるので、是非つけましょう  
-<a target="_blank"  href="https://www.amazon.co.jp/gp/product/B07F6B71BP/ref=as_li_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=B07F6B71BP&linkCode=as2&tag=masaquid-22&linkId=fb62e0fca62a66492c4f4b9b91a82632"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=JP&ASIN=B07F6B71BP&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL160_&tag=masaquid-22" ></a><img src="//ir-jp.amazon-adsystem.com/e/ir?t=masaquid-22&l=am2&o=9&a=B07F6B71BP" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=masaquid-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07F6B71BP&linkId=bb007e63c40230939ceda9595524d6ca"></iframe>
 
 <br>
 ### スマホホルダー
@@ -247,14 +257,16 @@ GPSトラッキングや、ルート表示などしてくれるものもあり�
 どんなやつでもいいです (走行中は画面OFFにしてるので)  
 自分のスマホの大きさにあったやつ買いましょう  
 あとはとにかくレビューをみて　走行中に脱落しなそうやつを。  
-<a target="_blank"  href="https://www.amazon.co.jp/gp/product/B0725XHND1/ref=as_li_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=B0725XHND1&linkCode=as2&tag=masaquid-22&linkId=5af7698eb32a1c2451c7b24e52a29621"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=JP&ASIN=B0725XHND1&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL160_&tag=masaquid-22" ></a><img src="//ir-jp.amazon-adsystem.com/e/ir?t=masaquid-22&l=am2&o=9&a=B0725XHND1" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=masaquid-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B0725XHND1&linkId=8e4bfca7db39ab3125f99dc1d22dfb62"></iframe>
 
 
 <br>
 ### ディスプレイスタンド
 全然無くてもいいですけど、必要な人は必要だと思うので  
 後輪を浮かせるタイプだとメンテナンスの時にも使えて、ちょっと便利です  
-<a target="_blank"  href="https://www.amazon.co.jp/gp/product/B00BKXCI7O/ref=as_li_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=B00BKXCI7O&linkCode=as2&tag=masaquid-22&linkId=f28b7c1741369b2938563356be10b528"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=JP&ASIN=B00BKXCI7O&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL160_&tag=masaquid-22" ></a><img src="//ir-jp.amazon-adsystem.com/e/ir?t=masaquid-22&l=am2&o=9&a=B00BKXCI7O" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=masaquid-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B00BKXCI7O&linkId=29e08be8bcccd088524151c253e60de3"></iframe>
 
 
 <br>
@@ -269,15 +281,18 @@ GPSトラッキングや、ルート表示などしてくれるものもあり�
 試したいな～と思ったら、すぐにでも試したほうがいいです
 
 はじめは、片面フラットの 付け外ししやすいSPDペダルを買うのが鉄板です  
-<a target="_blank"  href="https://www.amazon.co.jp/gp/product/B0052XXW32/ref=as_li_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=B0052XXW32&linkCode=as2&tag=masaquid-22&linkId=930e499578acb1892d390e397a403e80"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=JP&ASIN=B0052XXW32&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL160_&tag=masaquid-22" ></a><img src="//ir-jp.amazon-adsystem.com/e/ir?t=masaquid-22&l=am2&o=9&a=B0052XXW32" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=masaquid-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B0052XXW32&linkId=00abc16d8a6a17db22380d5204274852"></iframe>
 
 シューズの機能性についても色々ありますが、カジュアルなシューズとかもあります  
-<a target="_blank"  href="https://www.amazon.co.jp/gp/product/B072TKR643/ref=as_li_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=B072TKR643&linkCode=as2&tag=masaquid-22&linkId=e4a0e8d8ca4f4afdef5f39dba6f0918a"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=JP&ASIN=B072TKR643&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL160_&tag=masaquid-22" ></a><img src="//ir-jp.amazon-adsystem.com/e/ir?t=masaquid-22&l=am2&o=9&a=B072TKR643" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=masaquid-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B0744HJMG7&linkId=75005dc1a87da2f8fc7ea4ded6d34ee1"></iframe>
 
 クリートのタイプが SPD用かどうかを確認の上で、好きなシューズ買えばいいと思います
 
 <small>私はビンディングサンダルがずっと欲しいです。</small>  
-<a target="_blank"  href="https://www.amazon.co.jp/gp/product/B01J366BO0/ref=as_li_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=B01J366BO0&linkCode=as2&tag=masaquid-22&linkId=3305336ef380752ba348b76281d92f72"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=JP&ASIN=B01J366BO0&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL160_&tag=masaquid-22" ></a><img src="//ir-jp.amazon-adsystem.com/e/ir?t=masaquid-22&l=am2&o=9&a=B01J366BO0" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=masaquid-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B01J366BO0&linkId=ae5618ed32c355437f6f07b2b97171a0"></iframe>
 
 * * *
 
@@ -293,12 +308,14 @@ GPSトラッキングや、ルート表示などしてくれるものもあり�
 人生で初めて 100km に挑戦する時に購入したサドル、足の動きに抵抗を感じることもなく、安値でおしりの痛み知らずでかなり気に入ってますが  
 こればっかりは人によると思いますので。一応紹介しておきます  
 
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=masaquid-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B0175ZDTUA&linkId=4034575a51f900edcf417c0914a16966"></iframe>
+
 オススメかって言われたらめっちゃオススメします。責任は持てないです。  
-<a target="_blank"  href="https://www.amazon.co.jp/gp/product/B0175ZDTUA/ref=as_li_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=B0175ZDTUA&linkCode=as2&tag=masaquid-22&linkId=96981f6252b22be3713bc833978433bc"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=JP&ASIN=B0175ZDTUA&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL160_&tag=masaquid-22" ></a><img src="//ir-jp.amazon-adsystem.com/e/ir?t=masaquid-22&l=am2&o=9&a=B0175ZDTUA" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 * * *
 
 ## このあとは
+
 必要なものが揃え終わったら、輪行バッグやなど長距離用の装備を揃えて。  
 
 次に迷ったらタイヤを変えるのがオススメです。そんなに高くなくて結構乗り味かわります。  
