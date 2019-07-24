@@ -57,7 +57,7 @@ __【注意】__
 
 <a target="_blank"  href="https://www.amazon.co.jp/gp/product/B07L4QKWH5/ref=as_li_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=B07L4QKWH5&linkCode=as2&tag=masaquid-22&linkId=74cc5f08314537f0bbd5e6fb2cf72792"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=JP&ASIN=B07L4QKWH5&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL160_&tag=masaquid-22" ></a><img src="//ir-jp.amazon-adsystem.com/e/ir?t=masaquid-22&l=am2&o=9&a=B07L4QKWH5" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-空気圧は、タイヤに書いてあります。大体 7BAR = 100psi ぐらいでOKです  
+空気圧は、タイヤに書いてあります。大体 7BAR (100psi) ぐらいでOKです  
 [タイヤの空気圧って、どのぐらい入れたら良いの？ | TREK](https://www.trekstore.jp/news/?p=45207)
 
 入れる空気圧は 7BAR ぐらいなのですが、空気圧計で 10BAR 以上あるものを購入しましょう  
@@ -80,7 +80,7 @@ __【注意】__
 __JCF公認ヘルメット__  
 <small>
 日本自転車競技連盟が品質保証しているヘルメット  
-衝撃吸収性能試験などをクリアした証明で、日本の一部レースに参加するのに必須だったりする
+衝撃吸収性能試験などをクリアした証明で、日本の一部レースに参加するのにこのマークが必須だったりする
 </small>
 
 JCF公認／推奨のシールが貼られたヘルメットを購入しましょう  
