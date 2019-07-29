@@ -52,15 +52,18 @@ _40km_ 以上のスピードで移動しているときには、ボールPlusも
 {{% img src="images/posts/2019-07-26_ballplus1.jpg" %}}  
 ポケモンを発見したときに天面のボタンを押下する（押しっぱなしでも○）すると _モンスターボール_ を投げます
 
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=qf_sp_asin_til&t=masaquid-22&m=amazon&o=9&p=8&l=as1&IS2=1&detail=1&asins=B07L6JVGDD&linkId=add69ee3885d7bd91a94117ab24f9cdc&bc1=000000&lt1=_blank&fc1=333333&lc1=0066c0&bg1=ffffff&f=ifr">
+    </iframe>
+    
 <br>
 __設定について__  
 アプリ内でモンスターボールPlusの設定でポケモン通知をONにするとポケモン捕獲できるようになります  
 {{% img src="images/posts/2019-07-26_ballplus2.png" %}}
 
-ポケモンがいる時は、常にポケストップより優先されるので、道具集め(ポケストップ回収)を優先した場合はアプリ内からポケモンの通知を切ればポケストップだけ回せます
+ポケモンが近くにいる時、常にポケストップより優先して捕獲されます  
+ポケモンが全ていなくなる前に、ポケストップの近くを離れるとポケストップ回してくれません。
 
-私の場合、大体アイテムが足りなくなって必死に集めてるので……場合によって使い分けてます  
-
+道具集め(ポケストップ回収)を優先したい場合は、アプリ内からポケモンの通知を切ることでポケストップだけ回せます
 
 <br>
 ## サポートモードについて
