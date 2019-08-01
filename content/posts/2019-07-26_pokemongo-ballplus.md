@@ -1,7 +1,7 @@
 ---
 date: 2019-07-26T10:07:17+09:00
 thumbnail: images/posts/2019-07-25_eye-catch.png
-title: 【ポケGO】ボールPlus 速度制限や自動化について
+title: 【ポケモンGO】ボールPlus 速度制限や自動化について
 toc: false
 
 # Categories:
