@@ -31,8 +31,6 @@ tags:
 まだまだ弄り途中ですが、何だかんだ変更する箇所があったので、参考にしたサイトの紹介と共に
 変更箇所のメモを残しておきます
 
-{{% ad %}}
-
 * * *
 
 ## Hugoテーマのカスタマイズについて
@@ -253,3 +251,6 @@ categories:
 [Robust設定 ::  Alice in the Machine - wiki](https://browniealice.github.io/wiki/technote/hugo/setting_for_robust/)
 
 それっぽくなったので、コレにて一旦終了して後はゆっくり触ってみます
+
+
+{{% ad %}}

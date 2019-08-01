@@ -35,8 +35,6 @@ Rails用のBootstrap gemをいれるには _sass_ だか _less_ だかが必要�
 それに、Bootstrap関連のjsを直接修正したい時も稀にあるので 
 Bootstrap関連ファイルは <code>vendor/assets</code> 以下にダウンロードしてきたCSSをそのまま入れるようにしているのだけど、どこかのRailsのバージョンから <code>vendor</code> のファイルは自動的にプリコンパイルしてくれないようになったようだ
 
-{{% ad %}}
-
 * * *
 
 試しに、パスをのぞいてみると
@@ -101,3 +99,5 @@ $ rails c
 ```
 
 今度は大丈夫みたい
+
+{{% ad %}}

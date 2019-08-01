@@ -26,8 +26,6 @@ tags:
 
 PC版で2016年に発売して以来、Xbox/Switchと様々なプラットフォーム展開し、合計200万本～売れてる、メガヒットインディーズタイトル
 
-{{% ad %}}
-
 * * *
 [Enter the Gungeon](https://www.epicgames.com/store/ja/product/enter-the-gungeon/home)
 
@@ -62,3 +60,5 @@ Gungeonの場合は上下左右から弾を撃たれるので __この弾は横�
 置きリロードとかについてのテクニックまとめみたいなのが全然情報なかったので、自分でほそぼそとメモ取ることにしました
 
 [Enter the Gungeon メモ - Scrapbox](https://scrapbox.io/gungeon-memo/)
+
+{{% ad %}}

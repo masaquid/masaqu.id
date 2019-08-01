@@ -32,8 +32,6 @@ Hugoに移行した当サイトをNetlify＋CloudFlareで独自ドメイン・ht
 Hugo＋Netlifyでの静的ブログ環境はこちらの記事を参照  
 [Github-PagesからNetlify＋Hugoに移行しました](https://masaqu.id/posts/2019-06-06_first_post/)
 
-{{% ad %}}
-
 * * *
 
 ## CloudFlareの設定
@@ -89,3 +87,5 @@ __Veryfy FNS configuration__ を押下し __Let's encrypt certificate__ を押�
 
 Webプログラマを離れて結構たち、また最近勉強しはじめてますが  
 最近はほんと設定が早くて楽・便利になってていちいち感動する
+
+{{% ad %}}

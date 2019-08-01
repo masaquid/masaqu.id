@@ -33,8 +33,6 @@ Hugoテーマ [Robust](https://github.com/dim0627/hugo_theme_robust) での設�
 
 必要に応じて適宜読み替えてください
 
-{{% ad %}}
-
 * * *
 ## 固定ページ用のフォルダを作成
 
@@ -92,3 +90,5 @@ config.toml
 
 これで必要な設定は終了
 
+
+{{% ad %}}

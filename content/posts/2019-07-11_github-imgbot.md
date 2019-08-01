@@ -25,8 +25,6 @@ tags:
 
 ブログ的に使ってるとリポジトリの画像重たすぎるよなぁ…外部サーバ探そうかな、とか思ってたら良いサービスがあった 
 
-{{% ad %}}
-
 __IMGBOT__  
 _A GitHub app that optimizes your images_  
 [https://imgbot.net](https://imgbot.net)
@@ -77,3 +75,5 @@ Githubとの連携は、ポチポチ押すだけで何も無いので割愛
 {{% img src="images/posts/2019-07-11_imgbot-pullrequest.png" %}}
 
 画像にもよりますが、結構圧縮されてる・・・しゅごい
+
+{{% ad %}}

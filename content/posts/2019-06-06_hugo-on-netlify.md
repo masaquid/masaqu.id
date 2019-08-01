@@ -27,8 +27,6 @@ tags:
 
 Windows環境下で編集出来るようセットアップしたので、その記録を残しておきます
 
-{{% ad %}}
-
 * * *
 
 ## WindowsにHugoをインストール
@@ -183,3 +181,6 @@ Netlify なら Netlify の、独自ドメインなら独自ドメインのbaseUR
 Netlify＋CloudFlare校正で独自ドメイン化・Https化したのでメモしておいた
 
 [Hugo＋Netlify＋CloudFlareで独自ドメインのhttps化](https://masaqu.id/posts/2019-06-07_netlify-cloudflare/)
+
+
+{{% ad %}}
