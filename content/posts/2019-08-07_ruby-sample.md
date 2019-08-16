@@ -121,3 +121,5 @@ sample(0) が指定された場合も 配列でひとつ要素を取出してし
 ## Gistってものを初めてしった
 こんなのもあったんですね。とりあえずアップしてみました 
 [https://gist.github.com/masaquid/e256a5485181f1a270f82f155d3304a0](https://gist.github.com/masaquid/e256a5485181f1a270f82f155d3304a0)
+
+{{< ad >}}
