@@ -1,6 +1,6 @@
 ---
 date: 2019-08-16T09:26:23+09:00
-thumbnail: images/posts/2019-08-16_eye-catch.png
+thumbnail: images/posts/2019-08-16_eye-catch1.png
 title: Amazonを騙る迷惑メール！迷惑メールを見分ける方法
 toc: false
 
@@ -89,3 +89,5 @@ Amazonのリンク先であれば <code>amazon.co.jp</code> なので、似て�
 そして心配なら問い合わせをすることを徹底すれば被害は殆ど起きません
 
 ……中身のあまりない記事ですが、見た人が少しでも気をつけるきっかけになれば
+
+{{< ad >}}
