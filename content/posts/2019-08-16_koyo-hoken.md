@@ -1,7 +1,7 @@
 ---
 date: 2019-08-16T16:57:01+09:00
 thumbnail: images/posts/2019-08-16_eye-catch2.png
-title: 雇用保険に入っていなかった！なんて事が起こったのでメモ【実際にあった話】
+title: 雇用保険に入っていなかった！なんて事が起こったのでメモ
 toc: false
 
 # Categories:
