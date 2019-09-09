@@ -5,17 +5,14 @@ title: 【ポケモンGO】シャドウポケモンに新しいポケモンが�
 toc: false
 
 # Categories:
-#   開発関係のこと
-#   趣味のこと
-#   ニュース
-#   その他
+#   技術, ゲーム, 自転車, ニュース, その他
 # Tags:
 #   ruby, php, golang, javascript
 #   ruby on rails, laravel, hugo
-#   github, netlify
-#   自転車
+#   github, netlify, heroku
+#   自転車, ボードゲーム
 categories:
- - "趣味のこと"
+ - "ゲーム"
 tags:
  - "Pokemon Go"
 ---

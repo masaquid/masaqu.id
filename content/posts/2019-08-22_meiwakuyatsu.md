@@ -5,15 +5,12 @@ title: お客様宛にお荷物のお届けにあがりましたが不在の為�
 toc: false
 
 # Categories:
-#   開発関係のこと
-#   趣味のこと
-#   ニュース
-#   その他
+#   技術, ゲーム, 自転車, ニュース, その他
 # Tags:
 #   ruby, php, golang, javascript
 #   ruby on rails, laravel, hugo
-#   github, netlify
-#   自転車
+#   github, netlify, heroku
+#   自転車, ボードゲーム
 categories:
  - "その他"
 tags:
@@ -27,3 +24,5 @@ tags:
 最近(８月ぐらいから)Twitterとかで結構みかける迷惑メールが私の元にも届きました。
 
 中身こんな感じでした。お気をつけください
+
+{{< ad >}}
