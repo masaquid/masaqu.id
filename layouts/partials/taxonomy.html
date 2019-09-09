@@ -6,7 +6,7 @@
   </header>
   <div>
     <ul class="terms">
-      {{ range $key, $value := first 10 .value.ByCount }}
+      {{ range $key, $value := first 20 .value.ByCount }}
       <li>
         <a href="{{ $.baseurl}}{{ $.key }}/{{ .Name | urlize }}">
           {{ .Name }}
