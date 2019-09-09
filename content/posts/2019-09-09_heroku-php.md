@@ -16,6 +16,7 @@ categories:
 tags:
  - "PHP"
  - "composer"
+ - "heroku"
 ---
 
 # HerokuでPHPを動かす時のメモ
