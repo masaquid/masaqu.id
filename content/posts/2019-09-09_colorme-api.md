@@ -77,7 +77,8 @@ https://api.shop-pro.jp/oauth/authorize?client_id=CLIENT_ID&redirect_uri=REDIREC
 <br>
 ## 3. 認可コードを取得
 以下、次のコードを動かすことで終わります  
-auth.php として作成し、先のリダイレクトURI先としてHerokにアップして、ブラウザで実行したら終わりです
+client_id, client_secret, redirect_uri を適切に書き換え、  
+auth.php として作成して先のリダイレクトURI先としてHerokにアップ。ブラウザで実行したら終わりです
 
 ```
 <?php
