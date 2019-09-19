@@ -32,7 +32,7 @@ Zipファイルをダウンロード・解凍して適切な場所に配置。�
 Hugoとかのインストールと同じですね。最近こういうマニュアルインストール多いのかな
 
 [GitHub Releases](https://github.com/JetBrains/kotlin/releases/latest) から  
-_kotlin-compiler-VERSION.zip_ をダウンロード・回答する
+_kotlin-compiler-VERSION.zip_ をダウンロード・解凍する
 
 今回は _C:\kotlinc_ に配置し、PATHに _C:\kotlinc\bin_ とした
 
@@ -69,6 +69,8 @@ Extensionから適当なものを入れるだけ
 適当な所に __hello.kt__ を作成してコードを書く
 
 ```
+hello.kt
+
 fun main(args: Array<String>) {
     println("Hello, world!")
 }
@@ -80,8 +82,8 @@ fun main(args: Array<String>) {
 $ kotlinc hello.kt
 ```
 
-エラーがでなければOKで HelloKtってファイルが生成される  
-とりあえずそのまま <code>kotlin</code> コマンドで実行する
+エラーがでなければOKで <code>HelloKt.class</code> ってファイルが生成される  
+コマンド <code>kotlin HelloKt</code> で実行する
 
 
 ```
