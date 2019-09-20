@@ -8,8 +8,8 @@ toc: false
 #   技術, ゲーム, 自転車, ニュース, その他
 # Tags:
 #   ruby, php, golang, javascript, kotlin
-#   ruby on rails, laravel, hugo
-#   github, netlify, heroku
+#   ruby-on-rails, sinatra, laravel, hugo
+#   github, netlify, heroku, line-bot
 #   自転車, ボードゲーム
 categories:
  - ""
