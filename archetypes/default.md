@@ -5,7 +5,7 @@ title:
 toc: false
 
 # Categories:
-#   技術, ゲーム, 自転車, ニュース, その他
+#   技術, ゲーム, 自転車, ニュース, Poker, その他
 # Tags:
 #   ruby, php, golang, javascript, kotlin
 #   ruby-on-rails, sinatra, laravel, hugo

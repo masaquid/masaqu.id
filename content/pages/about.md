@@ -18,7 +18,6 @@ _@masaquid_ こと __まさき__ と申します
 
 前職ではPHPでWebシステム開発などを行っていましたが、現在は趣味として心の赴くまま小さなアプリを開発したりしています
 
-
 * * *
 ### ブログのこと
 
@@ -77,11 +76,26 @@ ec-cube等の開発だと大掛かりで、他のカートシステムだと費�
 
 <s>Pythonで作った意味は特にないです</s>  
 何故か書き終わった時にはRubyになってました……不思議
+可能になりました
+
+
+<br>
+__[Ruby] <a href="https://preflop-allin-rules.herokuapp.com">Preflop All-in Rules</a>__
+<a href="/images/pages/about/preflop-allin-rules_thumbnail.png" target="_blank">{{% img src="images/pages/about/preflop-allin-rules_thumbnail.png" w="150" %}} </a>  
+
+完全に趣味で暇つぶしに作りました
+テキサスホールデムでの初期ハンド勝率を早見できるツールです
+
+Poker×Pokerとか、PokerstarsのSping&Goとかの少人数で回転数をあげたほうが良い試合で、  
+勝率をパパっと見れるツールあったら便利だねって事で書いてみました
+
+実際にコレを見ながらプレイする事はあまりないのだけれど、過去の戦績を見ながら判断が間違ってなかったか確認するときには結構便利です  
+コードも汚く、速度をあげる事に1mmも注力してませんが、コードがシンプルなんで結構かるくて早いです（多分）
 
 * * *
 ### ID: masaquidについて
 
-名前はTwitterをはじめ公開してしまってるので、それに因んだIDが無いかなぁ……  
+名前はTwitterをはじめ公開してしまってるので、何かそれに因んだIDが無いかなぁ……  
 と悩んでいたところ、当時「[スプラトゥーン](https://www.nintendo.co.jp/wiiu/agmj/index.html)」にハマっていて。  
 ツイートがスプラトゥーン関連ばかりだったので「squid (イカ)」と適当にくっつけたら良いんじゃない？と言われ適当に決定しました
 
