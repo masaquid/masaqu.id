@@ -76,21 +76,32 @@ ec-cube等の開発だと大掛かりで、他のカートシステムだと費�
 
 <s>Pythonで作った意味は特にないです</s>  
 何故か書き終わった時にはRubyになってました……不思議
-可能になりました
 
 
 <br>
 __[Ruby] <a href="https://preflop-allin-rules.herokuapp.com">Preflop All-in Rules</a>__
 <a href="/images/pages/about/preflop-allin-rules_thumbnail.png" target="_blank">{{% img src="images/pages/about/preflop-allin-rules_thumbnail.png" w="150" %}} </a>  
 
-完全に趣味で暇つぶしに作りました
+完全に趣味で暇つぶしに作りました  
 テキサスホールデムでの初期ハンド勝率を早見できるツールです
 
 Poker×Pokerとか、PokerstarsのSping&Goとかの少人数で回転数をあげたほうが良い試合で、  
 勝率をパパっと見れるツールあったら便利だねって事で書いてみました
 
 実際にコレを見ながらプレイする事はあまりないのだけれど、過去の戦績を見ながら判断が間違ってなかったか確認するときには結構便利です  
-コードも汚く、速度をあげる事に1mmも注力してませんが、コードがシンプルなんで結構かるくて早いです（多分）
+コードも汚く、実行速度をあげる事に1mmも注力してませんが、コードがシンプルなんで多分結構かるいです
+
+<br>
+### 特定業者向け
+_[PHP] 顧客管理・生産管理システム_  
+・メール内に添付された各取引先別のExcelファイルフォーマットを自動解析・データ化  
+_[PHP] バス運行管理システム_   
+・病院向けのバス登場者の確認用システム  
+・データをPDFに整形・出力し手書きでリストを扱えるように   
+_[PHP] 多言語対応電話応対システム_  
+_[PHP] 社内向けタスク管理アプリケーション_  
+_[Python] GoogleSpreadSheet連動 Discord Bot_  
+・GoogleSpreadSheet内のデータを、シート内のインターバル毎にデータ変換・読み上げ  
 
 * * *
 ### ID: masaquidについて
