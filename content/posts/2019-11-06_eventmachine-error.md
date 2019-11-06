@@ -171,8 +171,10 @@ $ cd eventmachine
 CONFIG['CXX'] = "g++"
 ```
 
-gemパッケージ化する
-ついでに必要なgemもインストール
+gemパッケージ化する  
+
+ついでにパッケージ化に必要なgemもインストール
+
 ```
 $ gem install rake
 $ gem install rake-compiler
