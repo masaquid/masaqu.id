@@ -188,7 +188,7 @@ $ gem install --local pkg/eventmachine-1.3.0.dev.1.gem --platform=ruby
 ```
 
 結果一緒……    
-とりあえずここまで。断念。
+とりあえずここまで。断念。  
 エラーの原因が分かってないから対処出来ない雑魚ッパ
 
 とりあえず <code>wdm</code> と <code>tz-info</code> をコメントアウトして無理やり動かしてます
