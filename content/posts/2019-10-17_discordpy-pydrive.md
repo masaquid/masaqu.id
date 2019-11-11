@@ -16,7 +16,7 @@ categories:
 tags:
  - "python"
  - "discordbot"
- - "google apps script"
+ - "google-apps-script"
 ---
 
 # GoogleDriveからファイルをダウンロードし、指定秒毎に読み上げるBOT
