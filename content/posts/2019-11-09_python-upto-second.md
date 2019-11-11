@@ -31,7 +31,7 @@ tags:
 5年前、Pythonは四位だったそうで。  
 機械学習のTensorFlowのようなPythonフレームワークの人気とともに、学生に教える言語として選択されてきている事が大きいと思われます。
 
-[](2019-11-09_top-program-lang.png)
+{{% img src="images/posts/2019-11-09_top-program-lang.png" %}}
 
 二位から落ちたとはいえ、Javaも今でも非常に人気のある言語です。  
 ですが、Javaの成長はAndroid開発に使用されているのが主で、Kotlinが正式採用されたことでJavaユーザの減少につながるかもしれません。
