@@ -17,9 +17,11 @@ tags:
  - "Python"
 ---
 
-世界最大のリポジトリホストであるGithubで、最も使われている言語第二位まで *Python* が浮上しました
-元記事: [https://www.developer-tech.com/news/2019/nov/08/octoverse-2019-python-java-github-most-popular-language/](https://www.developer-tech.com/news/2019/nov/08/octoverse-2019-python-java-github-most-popular-language/)
+世界最大のリポジトリホストであるGithubで、最も使われている言語第二位まで *Python* が浮上しました  
+[元記事](https://www.developer-tech.com/news/2019/nov/08/octoverse-2019-python-java-github-most-popular-language/)
 
+<br>
+<br>
 過去１年間と通して一位なのは *Javascript* です。  
 何も驚くことはないですね。  
 
