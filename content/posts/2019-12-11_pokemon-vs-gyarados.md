@@ -41,7 +41,7 @@ HS型やHD型は考慮外。C調整がギリギリなので必要に応じて微
 
 ## 型紹介 (育成論)
 
-{{< img src="images/posts/2019-12-11_mitomu.png" >}}
+{{< img src="images/posts/2019-12-11_mitomu.png" width="400" >}}
 
 ウォッシュロトム  
 特性: ふゆう  
@@ -165,5 +165,5 @@ H40以上振れば _いのちのたま_ のダメージも確実に耐えます
 
 <br>
 ソクノ持ちのギャラを一発で飛ばしたい人は是非に。
-{{< img src="images/posts/2019-12-11_kuwakuwa.png" >}}
+{{< img src="images/posts/2019-12-11_kuwakuwa.png" width="400" >}}
 
