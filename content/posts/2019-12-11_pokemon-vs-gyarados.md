@@ -1,7 +1,7 @@
 ---
 date: 2019-12-11T08:58:41+09:00
 thumbnail: images/posts/2019-12-11_eye-catch.jpg
-title: 【剣盾】ギャラドス対策！対面ほぼ完封 調整ミトム
+title: 【ポケモン剣盾】ギャラドス対策！対面ほぼ完封 調整ミトム
 toc: false
 
 # Categories:
