@@ -83,13 +83,13 @@ __[Ruby] <a href="https://preflop-allin-rules.herokuapp.com">Preflop All-in Rule
 <a href="/images/pages/about/preflop-allin-rules_thumbnail.png" target="_blank">{{% img src="images/pages/about/preflop-allin-rules_thumbnail.png" w="150" %}} </a>  
 
 完全に趣味で暇つぶしに作りました  
-テキサスホールデムでの初期ハンド勝率を早見できるツールです
+テキサスホールデムでの初期ハンド勝率を早見するツールです
 
 Poker×Pokerとか、PokerstarsのSping&Goとかの少人数で回転数をあげたほうが良い試合で、  
 勝率をパパっと見れるツールあったら便利だねって事で書いてみました
 
 実際にコレを見ながらプレイする事はあまりないのだけれど、過去の戦績を見ながら判断が間違ってなかったか確認するときには結構便利です  
-コードも汚く、実行速度をあげる事に1mmも注力してませんが、コードがシンプルなんで多分軽いです
+コードも汚く、実行速度をあげる事に1mmも注力してませんが、シンプルなんでそれなりに軽いです
 
 <br>
 ### 特定業者向け
