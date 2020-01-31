@@ -9,7 +9,7 @@ html {
 div.article-body {
   font-size: 0.9rem;
 }
-    
+
 
 .copyright img { /* creativecommons */
   height: 15px;
@@ -27,4 +27,16 @@ div.article-body {
 
 .author .author-facts li a img {
   height: 28px;
+}
+
+q {
+  display: block;
+  margin: 0.5rem;
+  padding: 1rem;
+  color: #555;
+  font-size: 0.85rem;
+  background-color: #efefef;
+}
+cite {
+  font-size: 0.8rem;
 }

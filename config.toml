@@ -43,3 +43,6 @@ copyright = """
   tag = "tags"
   category = "categories"
   series = "series"
+
+[markup.goldmark.renderer]
+  unsafe = true

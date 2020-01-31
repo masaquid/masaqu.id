@@ -1,0 +1,52 @@
+<html>
+
+<head>
+  <title>JAN/EANコード ジェネレータ</title>
+  <meta content="width=device-width, initial-scale=1" name="viewport">
+
+  <link href="https://fonts.googleapis.com/css?family=Noto+Serif+JP&amp;display=swap" rel="stylesheet">
+  <link href="./stylesheets/common.css" rel="stylesheet">
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.2/css/bulma.css" rel="stylesheet">
+
+  <script src="./javascripts/common.js" type="text/javascript"></script>
+</head>
+<head>
+<body>
+
+  <section class="hero">
+    <div class="hero-body">
+      <div class="container">
+        <h3>JAN/EANコード ジェネレーター</h3><h5>必要な情報とか</h5>
+        <table class="table">
+          <tr>
+            <th>GS1事業者コード</th>
+            <td><input type="text" id="gs1" value=""></td>
+            <td>9桁の企業コード</td>
+          </tr>
+          <tr>
+            <th>開始アイテムコード 001～</th>
+            <td><input type="text" id="iNum" /></td>
+            <td></td>
+          </tr>
+          <tr>
+            <th>コード発行数</th>
+            <td><input type="text" id="cNum" /></td>
+            <td>3桁までなら何個でも</td>
+          </tr>
+        </table>
+        <hr>
+        <h3>コードを発行する</h5>
+        <p><input type="button" onclick="jcode()" value="発行" /></p>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <div>
+      <textarea class="textarea" id="result"></textarea>
+    </div>
+  </section>
+
+
+</body>
+</html>

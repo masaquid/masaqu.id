@@ -1,0 +1,29 @@
+
+  /**
+  table,
+  textarea {
+    width: 800px;
+    border: solid 1px #333;
+  }
+  th {
+    width: 15em;
+    padding: 8px 10px;
+    font-size: 0.9em;
+    text-align: right;
+    background-color: #ddd;
+  }
+  td {
+    padding: 8px 10px;
+    background-color: white;
+  }
+  input {
+    padding: 4px 6px;
+    font-size: 1.1em;
+  }
+  textarea {
+    height: 50em;
+  }
+  */
+  #gs1 { width: 12em; }
+  #iNum { width: 3em; }
+  #cNum { width: 3em; }
