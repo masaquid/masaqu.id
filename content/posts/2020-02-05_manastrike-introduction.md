@@ -50,7 +50,7 @@ tags:
 - 回生の天使 (白) - <small>Angel of Renewal (White)</small>
 - 呪われたスピリット (黒) - <small>Accursed Spirit (Black)</small>
 - にやにや笑いの悪魔 (黒) - <small>Grinning Demon (Black)</small>
-- _不明_ (黒) - <small>Circle of Pain (Black)</small>
+- 苦痛の領域 (黒) - <small>Circle of Pain (Black)</small>
 - 極楽鳥 (緑) - <small>Birds of Paradise (Green)</small>
 - 大蜘蛛 (緑) - <small>Giant Spider (Green)</small>
 - 地形の精霊 (緑) - <small>Terrain Elemental (Green)</small>
