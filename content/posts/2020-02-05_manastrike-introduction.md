@@ -70,7 +70,7 @@ tags:
 - ゾンビの黙示録 (黒) - <small>Zombie Apocalypse (Black)</small>
 - 血統の守り手 (黒) - <small>Bloodline Keeper (Black)</small>
 - 墓所のタイタン (黒) - <small>Grave Titan (Black)</small>
-- _不明_ (緑) - <small>Baloth (Green)</small>
+- ベイロス (緑) - <small>Baloth (Green)</small>
 - 復讐蔦 (緑) - <small>Vengevine (Green)</small>
 - _不明_ (緑) - <small>Rolling Slime (Green)</small>
 - _不明_ (緑) - <small>Daybreak (Green)</small>
