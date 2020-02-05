@@ -76,7 +76,7 @@ tags:
 - _不明_ (緑) - <small>Daybreak (Green)</small>
 - 暴食するスライム (緑) - <small>Gluttonous Slime (Green)</small>
 - 目潰しの魔道士 (白) - <small>Blinding Mage (White)</small>
-- _不明_ (白) - <small>Griffin (White)</small>
+- グリフィン (白) - <small>Griffin (White)</small>
 - 城壁の聖騎士 (白) - <small>Talus Paladin (White)</small>
 - _不明_ (赤) - <small>Phoenix Nest (Red)</small>
 - 孔の歩哨 (赤) - <small>Vent Sentinel (Red)</small>
