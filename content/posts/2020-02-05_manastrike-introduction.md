@@ -45,7 +45,7 @@ tags:
 
 
 ### A Tier
-- _不明_ (青) - <small>Kraken (Blue)</small>
+- クラーケン (青) - <small>Kraken (Blue)</small>
 - コーの絡め捕り (白) - <small>Kor Entangler (White)</small>
 - 回生の天使 (白) - <small>Angel of Renewal (White)</small>
 - 呪われたスピリット (黒) - <small>Accursed Spirit (Black)</small>
@@ -72,13 +72,13 @@ tags:
 - 墓所のタイタン (黒) - <small>Grave Titan (Black)</small>
 - ベイロス (緑) - <small>Baloth (Green)</small>
 - 復讐蔦 (緑) - <small>Vengevine (Green)</small>
-- _不明_ (緑) - <small>Rolling Slime (Green)</small>
+- 転がるスライム (緑) - <small>Rolling Slime (Green)</small>
 - _不明_ (緑) - <small>Daybreak (Green)</small>
 - 暴食するスライム (緑) - <small>Gluttonous Slime (Green)</small>
 - 目潰しの魔道士 (白) - <small>Blinding Mage (White)</small>
 - グリフィン (白) - <small>Griffin (White)</small>
 - 城壁の聖騎士 (白) - <small>Talus Paladin (White)</small>
-- _不明_ (赤) - <small>Phoenix Nest (Red)</small>
+- フェニックスの巣 (赤) - <small>Phoenix Nest (Red)</small>
 - 孔の歩哨 (赤) - <small>Vent Sentinel (Red)</small>
 - 風雲艦隊の剣客 (赤) - <small>Storm Fleet Swashbuckler (Red)</small>
 
@@ -100,13 +100,13 @@ tags:
 - 破滅の刃 黒) - <small>Doom Blade (Black)</small>
 - 墓場からの復活 (黒) - <small>Rise from the Grave (Black)</small>
 - 恐慌盲 (青) - <small>Hysterical Blindness (Blue)</small>
-- _不明_ (青) - <small>Sea Gate Barracks (Blue)</small>
+- 海門の兵営 (青) - <small>Sea Gate Barracks (Blue)</small>
 - 撤回のらせん (青) - <small>Retraction Helix (Blue)</small>
 - シヴ山のドラゴン (赤) - <small>Shivan Dragon (Red)</small>
-- 業火のタイタン? (赤) - <small>Inferno Giant (Red)</small>
+- 業火のタイタン (赤) - <small>Inferno Giant (Red)</small>
 - 彗星の嵐 (赤) - <small>Comet Storm (Red)</small>
 - 濃霧 (緑) - <small>Fog (Green)</small>
-- _不明_ (白) - <small>Barracks (White)</small>
+- 兵営 (白) - <small>Barracks (White)</small>
 - 流刑への道 (白) - <small>Path to Exile (White)</small>
 
 * * *
