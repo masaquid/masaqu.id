@@ -34,6 +34,10 @@ tags:
 
 <br>
 
+※ 2020/02/06  
+　 おおよそ不明部分を埋めましたがイマイチわからないのがまだ・・・  
+　 何のカードか分かる人いたら [@masaquid](https://twitter.com/masaquid) までご連絡いただけると助かります
+
 ### SSS Tier
 - 終止符のスフィンクス (青) - <small>Sphinx of the Final Word (Blue)</small>
 
@@ -56,9 +60,9 @@ tags:
 - 地形の精霊 (緑) - <small>Terrain Elemental (Green)</small>
 - ショック (赤) - <small>Shock (Red)</small>
 - 灰雲のフェニックス (赤) - <small>Ashcloud Phoenix (Red)</small>
-- ゴブリン弩弓隊 (赤) - <small>Goblin Artillery (Red)</small>
+- ゴブリン砲兵 (赤) - <small>Goblin Artillery (Red)</small>
 - 憑依された護衛 (無色) - <small>Haunted Guardian (Colorless)</small>
-- _不明_ (黒) - <small>Hedron Scouts (Black)</small>
+- 面晶体偵察機 (無色) - <small>Hedron Scouts (Black) ←多分元サイトの間違い</small>
 - 機械仕掛けのクワガタ (無色) - <small>Clockwork Beetle (Colorless)</small>
 
 
