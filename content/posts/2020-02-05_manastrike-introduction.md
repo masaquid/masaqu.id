@@ -96,7 +96,7 @@ tags:
 - 魂の聖別者　(白) - <small>Sanctifier of Souls (White)</small>
 - 幽体の行列　(白) - <small>Spectral Procession (White)</small>
 - 万神殿の伝令　(緑) - <small>Herald of the Pantheon (Green)</small>
-- _不明_ (黒) - <small>Reviver Demon (Black)</small>
+- 強奪する悪魔  (黒) - <small>Reviver Demon (Black) ←多分元サイトの誤字</small>
 
 
 ### D Tier
