@@ -77,7 +77,7 @@ tags:
 - ベイロス (緑) - <small>Baloth (Green)</small>
 - 復讐蔦 (緑) - <small>Vengevine (Green)</small>
 - 転がるスライム (緑) - <small>Rolling Slime (Green)</small>
-- _不明_ (緑) - <small>Daybreak (Green)</small>
+- 夜明けのレインジャー (緑) - <small>Daybreak (Green) ←Daybreak Ranger?</small>
 - 暴食するスライム (緑) - <small>Gluttonous Slime (Green)</small>
 - 目潰しの魔道士 (白) - <small>Blinding Mage (White)</small>
 - グリフィン (白) - <small>Griffin (White)</small>
