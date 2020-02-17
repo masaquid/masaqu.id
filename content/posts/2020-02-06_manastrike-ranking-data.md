@@ -1,7 +1,7 @@
 ---
 date: 2020-02-06T18:00:00+09:00
 thumbnail: images/posts/2020-02-05_eye-catch.png
-title: Magic ManaStrike ランキング上位プレイヤーのデッキを知る
+title: Magic ManaStrike ランキング上位プレイヤーのデッキを知る【マナストライク】
 toc: false
 
 # Categories:

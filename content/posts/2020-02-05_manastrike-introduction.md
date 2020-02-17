@@ -1,7 +1,7 @@
 ---
 date: 2020-02-05T16:41:17+09:00
 thumbnail: images/posts/2020-02-05_eye-catch.png
-title: Magic ManaStrike カード強さランキング (Tier List)
+title: Magic ManaStrike カード強さランキング (Tier List) 【マナストライク】
 toc: false
 
 # Categories:
