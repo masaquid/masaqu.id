@@ -17,6 +17,11 @@ tags:
  - "ManaStrike"
 ---
 
+Manastrikeのwikiが無かったので自分で作ってみました  
+[Magic: Manastrike 攻略Wiki 【マナストライク】](http://manastrike.xyz/)
+
+* * *
+
 # Magic Manastrike カード強さランク紹介 (Tier List)
 1月29日に公開されたばかりで、まだ情報があまり出回っていませんが、  
 海外サイトで強いカードのリストなどが出ていたので紹介です  
@@ -25,6 +30,8 @@ tags:
 
 ただただ強いカードでデッキを作れば良い、というわけでは勿論無いと思いますが、  
 単純にカードパワーの強いカードを軸にデッキを組むと良いかもしれませんね
+
+[※ 2月12日 時点の上位プレイヤーデッキ まとめ直しました](https://masaqu.id/posts/2020-02-12_manastrike-toprank-copy/)
 
 <br>
 

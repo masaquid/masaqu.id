@@ -17,6 +17,11 @@ tags:
  - "ManaStrike"
 ---
 
+Manastrikeのwikiが無かったので自分で作ってみました  
+[Magic: Manastrike 攻略Wiki 【マナストライク】](http://manastrike.xyz/)
+
+* * *
+
 # Magic ManaStrike ランキング上位プレイヤーのデッキを知る
 
 このゲーム、親切なことにランキング上位プレイヤーが直近でプレイしたデッキ確認できるんですね
@@ -24,7 +29,9 @@ tags:
 ランキング上位プレイヤーがどんなデッキを使ってるのか、  
 どんなプレインズウォーカーを選択しているのか、簡単にまとめてみました
 
-<span style="color='coral'">デッキ紹介が、最上位プレイヤーのもので無いことがわかったので、追って書き直します</span>
+<s><span style="color='coral'">デッキ紹介が、最上位プレイヤーのもので無いことがわかったので、追って書き直します</span></s>
+
+[※ 2月12日 時点の上位プレイヤーデッキ まとめ直しました](https://masaqu.id/posts/2020-02-12_manastrike-toprank-copy/)
 
 {{< ad >}}
 
