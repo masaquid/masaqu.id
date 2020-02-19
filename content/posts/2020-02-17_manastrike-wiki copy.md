@@ -1,5 +1,5 @@
 ---
-date: 2020-02-12T11:27:34+09:00
+date: 2020-02-17T11:30:00+09:00
 thumbnail: images/posts/2020-02-05_eye-catch.png
 title: Magic ManaStrike の Wikiを作りました【マナストライク】
 toc: false

@@ -17,12 +17,21 @@ tags:
  - "ManaStrike"
 ---
 
-Manastrikeのwikiが無かったので自分で作ってみました  
+【宣伝】  
+<span style="color:red">Manastrikeのwikiが無かったので自分で作ってみました</span>
+
 [Magic: Manastrike 攻略Wiki 【マナストライク】](http://manastrike.xyz/)
+
+頑張って更新してます。  
+この情報が欲しい！編集手伝ってあげる！という方は、お声掛けいただけると助かります(真顔)
+
+<br>
 
 * * *
 
-# 【続編】Magic ManaStrike ランキング最上位プレイヤーのデッキを知る
+<br>
+
+# 【続編】Magic ManaStrike(マナストライク) ランキング最上位プレイヤーのデッキを知る
 
 前回のデッキ紹介が、思えば最上位プレイヤーのデッキ紹介でなかった事に気が付きました
 
