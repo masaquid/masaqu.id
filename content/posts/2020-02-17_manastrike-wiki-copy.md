@@ -19,13 +19,12 @@ tags:
 
 # Magic ManaStrike の Wikiを作りました【マナストライク】
 
+[Magic: Manastrike 攻略Wiki 【マナストライク】](http://manastrike.xyz/)
+
 基礎的な情報と簡単な初心者ガイド、カード短評などの情報だけでも欲しかったのですが、  
 なかなかそういったサイトが無いようなので、自分で作ってみました
 
-[Magic: Manastrike 攻略Wiki 【マナストライク】](http://manastrike.xyz/)
-
 Wikiのシステムを使っているものの、更新は個人なので頑張ってますが未だ行き届いてません……  
-
 優先的に更新して欲しい・したほうが良い項目などあれば、ご一報ください。
 
 <br>

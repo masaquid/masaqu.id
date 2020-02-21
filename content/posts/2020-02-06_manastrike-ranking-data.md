@@ -16,14 +16,12 @@ categories:
 tags:
  - "ManaStrike"
 ---
-
-【宣伝】  
-<span style="color:red">Manastrikeのwikiが無かったので自分で作ってみました</span>
-
 [Magic: Manastrike 攻略Wiki 【マナストライク】](http://manastrike.xyz/)
 
-頑張って更新してます。  
-この情報が欲しい！編集手伝ってあげる！という方は、お声掛けいただけると助かります(真顔)
+Manastrikeのwikiが無かったので自分で作りました。  
+カード一覧・プレインズウォーカー詳細 完成済。
+
+この情報が欲しい！編集手伝ってあげる！という方は、お声掛けいただけると助かります
 
 <br>
 
