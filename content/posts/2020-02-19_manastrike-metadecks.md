@@ -17,7 +17,7 @@ tags:
  - "ManaStrike"
  - "マナストライク"
 ---
-[Magic: Manastrike 攻略Wiki 【マナストライク】](http://manastrike.xyz/)
+[Magic: Manastrike 攻略Wiki 【マナストライク】](https://manastrike.xyz/)
 
 Manastrikeのwikiが無かったので自分で作りました。  
 カード一覧・プレインズウォーカー詳細 完成済。

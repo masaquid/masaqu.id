@@ -17,7 +17,7 @@ tags:
  - "ManaStrike"
  - "マナストライク"
 ---
-[Magic: Manastrike 攻略Wiki 【マナストライク】](http://manastrike.xyz/)
+[Magic: Manastrike 攻略Wiki 【マナストライク】](https://manastrike.xyz/)
 
 Manastrikeのwikiが無かったので自分で作りました。  
 カード一覧・プレインズウォーカー詳細 完成済。
@@ -43,7 +43,7 @@ Manastrikeのwikiが無かったので自分で作りました。
 </q>
 <cite>
 
-[新しいシーズンで出会えるプレインズウォーカーは？ - MANASTRIKE FORUM](http://forum.netmarble.com/manastrike_en/view/31/12562)
+[新しいシーズンで出会えるプレインズウォーカーは？ - MANASTRIKE FORUM](https://forum.netmarble.com/manastrike_en/view/31/12562)
 
 </cite>
 

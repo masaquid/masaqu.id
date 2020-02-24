@@ -18,7 +18,7 @@ tags:
  - "ManaStrike"
  - "マナストライク"
 ---
-[Magic: Manastrike 攻略Wiki 【マナストライク】](http://manastrike.xyz/)
+[Magic: Manastrike 攻略Wiki 【マナストライク】](https://manastrike.xyz/)
 
 Manastrikeのwikiが無かったので自分で作りました。  
 カード一覧・プレインズウォーカー詳細 完成済。
@@ -53,8 +53,8 @@ Manastrikeのwikiが無かったので自分で作りました。
 <br>
 
 ## 【オススメ度 ★★★★★】
-<img src="http://manastrike.xyz/_media/wizards:white.png" width="14">
-<img src="http://manastrike.xyz/_media/wizards:black.png" width="14"> <big>**ソリン・マルコフ**</big>  
+<img src="https://manastrike.xyz/_media/wizards:white.png" width="14">
+<img src="https://manastrike.xyz/_media/wizards:black.png" width="14"> <big>**ソリン・マルコフ**</big>  
 にやにや笑いの悪魔を主軸としたデッキは勧めにくいのかなと思ったのですが、  
 *目潰しの魔導士＋怨恨の悪霊にソリン召喚効果をつけて流す* デッキが、非常にシンプルで強いです  
 
@@ -71,8 +71,8 @@ Manastrikeのwikiが無かったので自分で作りました。
 相手の漸増爆弾や範囲ダメージに、他ユニットと合わせて攻撃をくらわないように離して召喚すると安定します
 
 <br>
-<img src="http://manastrike.xyz/_media/wizards:blue.png" width="14">
-<img src="http://manastrike.xyz/_media/wizards:black.png" width="14"> <big>**テゼレット**</big>  
+<img src="https://manastrike.xyz/_media/wizards:blue.png" width="14">
+<img src="https://manastrike.xyz/_media/wizards:black.png" width="14"> <big>**テゼレット**</big>  
 プレインズウォーカーの性能がめっちゃ強いです。  
 加えて、黒のカードパワーが高いので大体のデッキに同じ受け方で対応できます。  
 受けに強いテゼレットの性能を活かしつつ、対応範囲が広く、使い方のシンプルな血統の守り手を軸に採用  
@@ -89,7 +89,7 @@ Manastrikeのwikiが無かったので自分で作りました。
 <br>
 
 ## 【オススメ度 ★★★★】
-<img src="http://manastrike.xyz/_media/wizards:red.png" width="14"> <big>**チャンドラ・ナラー**</big>  
+<img src="https://manastrike.xyz/_media/wizards:red.png" width="14"> <big>**チャンドラ・ナラー**</big>  
 苦手なデッキタイプがあるのと、敵の対応が上手だとさばかれてしまうのでオススメ度4に。  
 ただ、生半可な受けを許さない業火なタイタンを採用することで、高い勝率を叩き出せます。  
 攻めたい人・自分のやりたいことを押し通したい人に。  
@@ -107,7 +107,7 @@ Manastrikeのwikiが無かったので自分で作りました。
 にやにや笑いの悪魔や憑依された護衛などの空中攻撃出来ないユニットには空中ユニットで対応しよう  
 
 <br>
-<img src="http://manastrike.xyz/_media/wizards:black.png" width="14"> <big>**オブ・ニクシリス**</big>  
+<img src="https://manastrike.xyz/_media/wizards:black.png" width="14"> <big>**オブ・ニクシリス**</big>  
 シンプルにプレインズウォーカー性能が強く、雑に戦って強い代表枠  
 プレインズウォーカーの死亡効果で大ダメージを与えるので、  
 髑髏カタパルトと合わせて相手のラッシュを凌ぎやすい  
@@ -126,8 +126,8 @@ Manastrikeのwikiが無かったので自分で作りました。
 
 
 <br>
-<img src="http://manastrike.xyz/_media/wizards:white.png" width="14">
-<img src="http://manastrike.xyz/_media/wizards:blue.png" width="14"> <big>**ドビン・バーン**</big>  
+<img src="https://manastrike.xyz/_media/wizards:white.png" width="14">
+<img src="https://manastrike.xyz/_media/wizards:blue.png" width="14"> <big>**ドビン・バーン**</big>  
 やることが明確で、戦略の組み立てがしやすいプレインズウォーカー  
 相手の攻めの戦力をしっかり見て受ける形で行動する。   
 グリフィンや目潰しの魔導士で相手に対応し、マナに余裕があるときに深き刻の忍者を流す  
@@ -145,7 +145,7 @@ Manastrikeのwikiが無かったので自分で作りました。
 <br>
 
 ## 【オススメ度 ★★★】
-<img src="http://manastrike.xyz/_media/wizards:white.png" width="14" > <big>**黄金のたてがみのアジャニ**</big>   
+<img src="https://manastrike.xyz/_media/wizards:white.png" width="14" > <big>**黄金のたてがみのアジャニ**</big>   
 アジャニはやれる事が非常に少なく、ワンパターンになりがちなので処理が容易なのが一番の欠点か  
 召喚効果のシールドと、回生の天使の魔法無効をあわせてユニットをまとめて流し込む戦法がシンプルかつ有用  
 問題は飛行ユニットへの対処で、目潰しの魔道士が処理されやすいのでタイミング・場所には気をつける  
@@ -160,8 +160,8 @@ Manastrikeのwikiが無かったので自分で作りました。
 - 漸増爆弾
 
 <br>
-<img src="http://manastrike.xyz/_media/wizards:white.png" width="14">
-<img src="http://manastrike.xyz/_media/wizards:red.png" width="14"> <big>**ナヒリ**</big>   
+<img src="https://manastrike.xyz/_media/wizards:white.png" width="14">
+<img src="https://manastrike.xyz/_media/wizards:red.png" width="14"> <big>**ナヒリ**</big>   
 ナヒリの火力が非常に高く、上手に通すことができれば大ダメージを与えることができる…が難しい  
 このデッキは基本戦術は、相手がナヒリを放置出来ないのでガーディアン横で受けないといけない→ゴブリン砲兵がフリー殴れる  
 ゴブリン砲兵の対処にマナを使うとナヒリを止めることができない。  
@@ -177,8 +177,8 @@ Manastrikeのwikiが無かったので自分で作りました。
 - 回生の天使
 
 <br>
-<img src="http://manastrike.xyz/_media/wizards:black.png" width="14">
-<img src="http://manastrike.xyz/_media/wizards:green.png" width="14"> <big>**ヴラスカ**</big>  
+<img src="https://manastrike.xyz/_media/wizards:black.png" width="14">
+<img src="https://manastrike.xyz/_media/wizards:green.png" width="14"> <big>**ヴラスカ**</big>  
 ヴラスカに慣れてないプレイヤーがヴラスカを使うにあたり、極楽鳥に拘らずにヴラスカの押し込み能力を生かして戦うと簡単かもしれません。  
 ヴラスカの死亡効果(周囲の敵が気絶)は守りよりも、敵のガーディアン横の受けに対して効果を発揮します。  
 一度、黒のカード＋大蜘蛛などでカウンターした後に、ヴラスカで押し込む形が比較的安定します
@@ -196,7 +196,7 @@ Manastrikeのwikiが無かったので自分で作りました。
 <br>
 
 ## 【オススメ度 ★★】
-<img src="http://manastrike.xyz/_media/wizards:blue.png" width="14"> <big>**ジェイス・ベレレン**</big>   
+<img src="https://manastrike.xyz/_media/wizards:blue.png" width="14"> <big>**ジェイス・ベレレン**</big>   
 ジェイスの特徴としては、実はプレインズウォーカーの火力がかなり高いです。  
 基本的には受けよりのデッキで構築し、相手を受けきったところでジェイスを含めて押し上げるのが強力  
 カードコピー能力もあり、受けとしてはかなり成立しやすいですが、地獄乗りをはじめとする建物攻撃クリーチャーには案外弱いので  
@@ -212,7 +212,7 @@ Manastrikeのwikiが無かったので自分で作りました。
 - 漸増爆弾
 
 <br>
-<img src="http://manastrike.xyz/_media/wizards:black.png" width="14"> <big>**リリアナ・ヴェス**</big>   
+<img src="https://manastrike.xyz/_media/wizards:black.png" width="14"> <big>**リリアナ・ヴェス**</big>   
 リリアナもまた扱いの難しいプレインズウォーカーです  
 ゾンビを活かそうとするとマナが重たく、攻めと受けが両立しなくなるのでオススメしません  
 リリアナの特徴として、プレインズウォーカー自身の耐久力がそれなりにあるので、  
@@ -232,22 +232,22 @@ Manastrikeのwikiが無かったので自分で作りました。
 オススメ度1のプレインズウォーカーは、どんなデッキが良いか模索してますが、勝ちにつながるデッキを組み上げられなかったのでデッキ紹介は割愛します。  
 現時点での個人的評価を載せておきます。
 
-<img src="http://manastrike.xyz/_media/wizards:green.png" width="14"> <big>**ニッサ・レヴェイン**</big>  
+<img src="https://manastrike.xyz/_media/wizards:green.png" width="14"> <big>**ニッサ・レヴェイン**</big>  
 プレインズウォーカー召喚効果でマナ+1、スキル発動で攻撃アップと能力的には非常にわかりやすいのだけど、緑単が現在のカードプールではややキツい印象。  
 ベイロスを軸に相手のタワーを削る構成がわかりやすいのですが、ベイロスを攻撃する相手の強力な地上クリーチャーに対抗する手段が殆どありません。  
 転がるスライムや踏み荒らしを上手く使えばなんとかなるのか…？
 
 <br>
-<img src="http://manastrike.xyz/_media/wizards:red.png" width="14">
-<img src="http://manastrike.xyz/_media/wizards:green.png" width="14"> <big>**ドムリ・ラーデ**</big>  
+<img src="https://manastrike.xyz/_media/wizards:red.png" width="14">
+<img src="https://manastrike.xyz/_media/wizards:green.png" width="14"> <big>**ドムリ・ラーデ**</big>  
 ドムリは火力も高く機動力があり、スキルも優れているのですがプレインズウォーカーの体力が非常に低いです。  
 ドムリ本隊が先行してしまいやすい機動力なのに前線に立つと倒れてしまうアンバランス差が扱いにくいさを強調しています  
 並走するクリーチャーも緑のベイロスが非常に足が遅く、赤の地獄乗りが足が早く、とにかく歩行速度をあわせにくいです。
 
 
 <br>
-<img src="http://manastrike.xyz/_media/wizards:white.png" width="14">
-<img src="http://manastrike.xyz/_media/wizards:green.png" width="14"> <big>**カリックス**</big>   
+<img src="https://manastrike.xyz/_media/wizards:white.png" width="14">
+<img src="https://manastrike.xyz/_media/wizards:green.png" width="14"> <big>**カリックス**</big>   
 類似効果のカード追放の烙印に比べて召喚効果の追放時間が非常に短いです。（2秒）  
 また、スキルも使い勝手が悪く、カラー的にもカードパワーの高いクリーチャーが用意しにくいため、じわじわと殺される展開が非常に多くて辛かったです。  
 白のカードを上手く使えばそれなりにいけそうですが、カリックスを選ぶメリットを感じることは出来ませんでした。
@@ -256,30 +256,30 @@ Manastrikeのwikiが無かったので自分で作りました。
 <br>
 
 ## 【未検証】 
-<img src="http://manastrike.xyz/_media/wizards:blue.png" width="14">
-<img src="http://manastrike.xyz/_media/wizards:red.png" width="14"> <big>**ウィルとローアン**</big>   
+<img src="https://manastrike.xyz/_media/wizards:blue.png" width="14">
+<img src="https://manastrike.xyz/_media/wizards:red.png" width="14"> <big>**ウィルとローアン**</big>   
 定期的に見る上に、結構強いです。  
 ローアンの攻撃モーションが派手なので強い感じがしますが、ウィルの凍結がストッパー性能高くて嫌いです…  
 色的にも調和こそ取りにくいもののカードパワーが高いので、相手にするとかなりやっかいです。  
 
-<img src="http://manastrike.xyz/_media/wizards:black.png" width="14">
-<img src="http://manastrike.xyz/_media/wizards:green.png" width="14"> <big>**野生語りのガラク**</big>  
+<img src="https://manastrike.xyz/_media/wizards:black.png" width="14">
+<img src="https://manastrike.xyz/_media/wizards:green.png" width="14"> <big>**野生語りのガラク**</big>  
 あまり見ないけど結構強いです。というか、個人的にはかなり嫌いです。  
 プレインズウォーカーの体力が高く、スキルもあわせ殲滅力が非常に高いので面で押し切られます。  
 対空ユニットでうまく対処できれば良いのですが、大蜘蛛と苦痛の領域が採用できるのもあり簡単に処理させません。  
 
-<img src="http://manastrike.xyz/_media/wizards:blue.png" width="14">
-<img src="http://manastrike.xyz/_media/wizards:green.png" width="14"> <big>**キオーラ**</big>   
+<img src="https://manastrike.xyz/_media/wizards:blue.png" width="14">
+<img src="https://manastrike.xyz/_media/wizards:green.png" width="14"> <big>**キオーラ**</big>   
 殆どみない上に強いか分からない枠。  
 青8コスのクラーケンに近い性能を持ったプレインズウォーカーですが、クラーケンもみないのでよくわかりません…  
 色的にも現環境ではやや不遇な印象  
 
-<img src="http://manastrike.xyz/_media/wizards:white.png" width="14"> <big>**ギデオン・ジュラ**</big>   
+<img src="https://manastrike.xyz/_media/wizards:white.png" width="14"> <big>**ギデオン・ジュラ**</big>   
 これも本当に見ない枠。
 プレインズウォーカーの性能は、色とマッチして使いやすそうではあるのだけど、白単が処理されやすいので厳しい印象  
 使用可能になったのがシーズン終盤なのもあって、実戦で殆ど見たことありません
 
-<img src="http://manastrike.xyz/_media/wizards:blue.png" width="14"> <big>**タミヨウ**</big>    
+<img src="https://manastrike.xyz/_media/wizards:blue.png" width="14"> <big>**タミヨウ**</big>    
 たまに見るけど、あまり強くない枠  
 青単といった色制限がキツイ割に、プレインズウォーカーの性能がイマイチ強さを引き出しにくいかと  
 
