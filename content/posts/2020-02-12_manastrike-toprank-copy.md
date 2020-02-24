@@ -15,6 +15,7 @@ categories:
  - "ゲーム"
 tags:
  - "ManaStrike"
+ - "マナストライク"
 ---
 [Magic: Manastrike 攻略Wiki 【マナストライク】](http://manastrike.xyz/)
 

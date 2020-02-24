@@ -15,6 +15,7 @@ categories:
  - "ゲーム"
 tags:
  - "ManaStrike"
+ - "マナストライク"
 ---
 
 # Magic ManaStrike の Wikiを作りました【マナストライク】
