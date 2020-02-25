@@ -1,7 +1,7 @@
 ---
 date: 2020-02-17T11:30:00+09:00
 thumbnail: images/posts/2020-02-05_eye-catch.png
-title: Magic ManaStrike の Wikiを作りました【マナストライク】
+title: Magic ManaStrike Wiki 紹介【マナストライク】
 toc: false
 
 # Categories:
@@ -20,13 +20,18 @@ tags:
 
 # Magic ManaStrike の Wikiを作りました【マナストライク】
 
+<a href="https://manastrike.xyz/" target="_blank"><img src="/images/posts/2020-02-17_wiki-screenshot.png"></a>
+
 [Magic: Manastrike 攻略Wiki 【マナストライク】](https://manastrike.xyz/)
 
-基礎的な情報と簡単な初心者ガイド、カード短評などの情報だけでも欲しかったのですが、  
-なかなかそういったサイトが無いようなので、自分で作ってみました
+個人更新のため行き届いていない箇所がありますが、Wiki立ち上げました。
+カード一覧・プレインズウォーカー詳細 完成済。  
+※ レベル毎スケールなどの情報も必要かと思い加筆中
 
-Wikiのシステムを使っているものの、更新は個人なので頑張ってますが未だ行き届いてません……  
-優先的に更新して欲しい・したほうが良い項目などあれば、ご一報ください。
+カードの詳細画面や、ゲーム内情報以外の記事にあたる初心者ガイドなどは、
+基本的な情報転記が全て終わり次第、更新します。
+
+編集にご協力いただける方がいましたら是非、よろしくお願い致します。
 
 <br>
 
