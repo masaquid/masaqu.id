@@ -53,7 +53,7 @@ Manastrikeのwikiが無かったので自分で作りました。
 
 # 新シーズン「コスシーズン」開始！2/26 14:00～ から
 
-{{< img src="images/posts/2020-02-26_koth-season.jpg >}}
+{{< img src="images/posts/2020-02-26_koth-season.jpg" >}}
 
 そんなこんなで、同日 PM15:00 から新シーズン「コスシーズン」が始まります！  
 新プレインズウォーカーのコスを引っさげて開始するようで  
