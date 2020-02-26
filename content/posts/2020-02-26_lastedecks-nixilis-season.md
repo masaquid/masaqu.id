@@ -1,7 +1,7 @@
 ---
 date: 2020-02-26T11:11:33+09:00
 thumbnail: images/posts/2020-02-05_eye-catch.png
-title: ニクシリスシーズン終了！終了30分前の上位5プレイヤーデッキ Magic Manastrike 【マナストライク】
+title: ニクシリスシーズン終了！流行・メタデッキについての雑感と、終了30分前の上位5プレイヤーデッキ Magic Manastrike 【マナストライク】
 toc: false
 
 # Categories:
