@@ -1,6 +1,6 @@
 ---
 date: 2020-06-17T11:13:09+09:00
-thumbnail: images/posts/2020-06-17_eye-catch.png
+thumbnail: images/posts/2019-06-07_eye-catch.png
 title: Jekyll+Netlify環境でのブログセットアップ
 toc: false
 
